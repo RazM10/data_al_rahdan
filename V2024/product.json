@@ -1,4016 +1,1905 @@
 [
-  {
-    "date": "2023-10-19",
-    "des": "Rukn Al Bahar",
-    "icode": "G0000-0",
-    "id": "0",
-    "price": "245",
-    "qty": "10",
-    "unit": "kg"
-  },
-  {
-    "date": "2023-10-19",
-    "des": "Rukn Al Bahar",
-    "icode": "G0001-1",
-    "id": "1",
-    "price": "35",
-    "qty": "1",
-    "unit": "kg"
-  },
-  {
-    "date": "2023-10-23",
-    "des": "Jabel Jais",
-    "icode": "H0007-7",
-    "id": 2,
-    "price": "8.5",
-    "qty": "1",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-23",
-    "des": "Jabel Jais",
-    "icode": "H0008-8",
-    "id": 3,
-    "price": "5.5",
-    "qty": "2",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-23",
-    "des": "Jabel Jais",
-    "icode": "H009-9",
-    "id": 4,
-    "price": "9",
-    "qty": "2",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-23",
-    "des": "Jabel Jais",
-    "icode": "H0010-10",
-    "id": 5,
-    "price": "24",
-    "qty": "3",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-23",
-    "des": "Jabel Jais",
-    "icode": "H0011-11",
-    "id": 6,
-    "price": "36",
-    "qty": "6",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-23",
-    "des": "Jabel Jais",
-    "icode": "H0012-12",
-    "id": 7,
-    "price": "14.25",
-    "qty": "3",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-23",
-    "des": "Jabel Jais",
-    "icode": "H0013-13",
-    "id": 8,
-    "price": "10.5",
-    "qty": "3",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-24",
-    "des": "Sonas",
-    "icode": "G0023-23",
-    "id": 9,
-    "price": "15",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-24",
-    "des": "Sonas",
-    "icode": "G0025-25",
-    "id": 10,
-    "price": "14.5",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-24",
-    "des": "Falcon",
-    "icode": "G0017-17",
-    "id": 11,
-    "price": "112.8",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-24",
-    "des": "Falcon",
-    "icode": "G0053-53",
-    "id": 12,
-    "price": "24",
-    "qty": "2",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-10-24",
-    "des": "Jaleel",
-    "icode": "G0020-20",
-    "id": 13,
-    "price": "65",
-    "qty": "15",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-10-24",
-    "des": "Jaleel",
-    "icode": "G0021-21",
-    "id": 14,
-    "price": "5",
-    "qty": "1",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-10-24",
-    "des": "Jaleel",
-    "icode": "PM0028-28",
-    "id": 15,
-    "price": "27",
-    "qty": "3",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-24",
-    "des": "Jaleel",
-    "icode": "PM0031-31",
-    "id": 16,
-    "price": "21",
-    "qty": "3",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-24",
-    "des": "Jaleel",
-    "icode": "PM0029-29",
-    "id": 17,
-    "price": "36",
-    "qty": "3",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-24",
-    "des": "Jaleel",
-    "icode": "PM0030-30",
-    "id": 18,
-    "price": "50",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-23",
-    "des": "Sonas",
-    "icode": "G0004-4",
-    "id": 19,
-    "price": "71",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-23",
-    "des": "Sonas",
-    "icode": "G0005-5",
-    "id": 20,
-    "price": "91.5",
-    "qty": "32",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-24",
-    "des": "Sonas",
-    "icode": "G0038-38",
-    "id": 21,
-    "price": "78.5",
-    "qty": "72",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-09-29",
-    "des": "Sonas",
-    "icode": "G0049-49",
-    "id": 22,
-    "price": "64",
-    "qty": "1",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-09-26",
-    "des": "Jaleel",
-    "icode": "S0044-44",
-    "id": 23,
-    "price": "17.5",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-09-25",
-    "des": "Jaleel",
-    "icode": "G0061-61",
-    "id": 24,
-    "price": "48",
-    "qty": "12",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-09-25",
-    "des": "Jaleel",
-    "icode": "G0062-62",
-    "id": 25,
-    "price": "40.5",
-    "qty": "6",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-14",
-    "des": "Jaleel",
-    "icode": "G0046-46",
-    "id": 26,
-    "price": "40.5",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-10",
-    "des": "Jaleel",
-    "icode": "G0039-39",
-    "id": 27,
-    "price": "76",
-    "qty": "32",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-10",
-    "des": "Jaleel",
-    "icode": "G0048-48",
-    "id": 28,
-    "price": "3.3",
-    "qty": "3",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-10",
-    "des": "Jaleel",
-    "icode": "G0047-47",
-    "id": 29,
-    "price": "18.3",
-    "qty": "6",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-09",
-    "des": "Sonas",
-    "icode": "G0050-50",
-    "id": 30,
-    "price": "15.5",
-    "qty": "1",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-09-29",
-    "des": "Sonas",
-    "icode": "G0052-52",
-    "id": 31,
-    "price": "51",
-    "qty": "2",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-10-16",
-    "des": "Sonas",
-    "icode": "G0053-53",
-    "id": 32,
-    "price": "23",
-    "qty": "1",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-10-16",
-    "des": "Sonas",
-    "icode": "G0055-55",
-    "id": 33,
-    "price": "16.5",
-    "qty": "2",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-11-14",
-    "des": "Pran_Amir",
-    "icode": "G0066-66",
-    "id": 34,
-    "price": "1270",
-    "qty": "20",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-14",
-    "des": "Pran",
-    "icode": "G0067-67",
-    "id": 35,
-    "price": "81",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-14",
-    "des": "Pran",
-    "icode": "G0068-68",
-    "id": 36,
-    "price": "201",
-    "qty": "72",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-14",
-    "des": "Pran",
-    "icode": "G0069-69",
-    "id": 37,
-    "price": "201",
-    "qty": "36",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-15",
-    "des": "Falcon",
-    "icode": "PM0030-30",
-    "id": 38,
-    "price": "96",
-    "qty": "96",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-15",
-    "des": "Falcon",
-    "icode": "PM0070-70",
-    "id": 39,
-    "price": "12.68",
-    "qty": "4",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-15",
-    "des": "Falcon",
-    "icode": "PM0071-71",
-    "id": 40,
-    "price": "16.05",
-    "qty": "3",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-15",
-    "des": "Falcon",
-    "icode": "H0072-72",
-    "id": 41,
-    "price": "89",
-    "qty": "18",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-21",
-    "des": "Falcon",
-    "icode": "G0057-57",
-    "id": 42,
-    "price": "31.5",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-21",
-    "des": "Falcon",
-    "icode": "G0063-63",
-    "id": 43,
-    "price": "32",
-    "qty": "2",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-10-30",
-    "des": "Falcon",
-    "icode": "G0063-63",
-    "id": 44,
-    "price": "32",
-    "qty": "2",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-10-30",
-    "des": "Falcon",
-    "icode": "G0060-60",
-    "id": 45,
-    "price": "41",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-10-30",
-    "des": "Falcon",
-    "icode": "G0059-59",
-    "id": 46,
-    "price": "163",
-    "qty": "35",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-10-30",
-    "des": "Falcon",
-    "icode": "G0064-64",
-    "id": 47,
-    "price": "48",
-    "qty": "30",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-05",
-    "des": "Jaleel",
-    "icode": "G0002-2",
-    "id": 48,
-    "price": "39",
-    "qty": "20",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-09",
-    "des": "Jaleel",
-    "icode": "G0045-45",
-    "id": 49,
-    "price": "146",
-    "qty": "35",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-11-09",
-    "des": "Sonas",
-    "icode": "G0033-33",
-    "id": 50,
-    "price": "107",
-    "qty": "15",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-11-04",
-    "des": "Jaleel",
-    "icode": "G0065-65",
-    "id": 51,
-    "price": "68.25",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-04",
-    "des": "Sonas",
-    "icode": "G0065-65",
-    "id": 52,
-    "price": "67.5",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-16",
-    "des": "Areej",
-    "icode": "G0015-15",
-    "id": 53,
-    "price": "480",
-    "qty": "60",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-16",
-    "des": "Pran",
-    "icode": "G0073-73",
-    "id": 54,
-    "price": "820",
-    "qty": "480",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-17",
-    "des": "Pran",
-    "icode": "G0074-74",
-    "id": 55,
-    "price": "135",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-17",
-    "des": "Pran",
-    "icode": "G0075-75",
-    "id": 56,
-    "price": "190",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-17",
-    "des": "Pran",
-    "icode": "G0076-76",
-    "id": 57,
-    "price": "62",
-    "qty": "20",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-17",
-    "des": "Pran",
-    "icode": "G0077-77",
-    "id": 58,
-    "price": "67",
-    "qty": "96",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-09",
-    "des": "Pran",
-    "icode": "G0078-78",
-    "id": 59,
-    "price": "209",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-16",
-    "des": "Sonas Offer",
-    "icode": "G0079-79",
-    "id": 60,
-    "price": "25",
-    "qty": "12",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-18",
-    "des": "Jaleel",
-    "icode": "G0045-45",
-    "id": 61,
-    "price": "146",
-    "qty": "35",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-11-18",
-    "des": "Jaleel",
-    "icode": "G0081-81",
-    "id": 62,
-    "price": "24",
-    "qty": "60",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-18",
-    "des": "Jaleel",
-    "icode": "G0082-82",
-    "id": 63,
-    "price": "3",
-    "qty": "3",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-21",
-    "des": "Falcon",
-    "icode": "G0083-83",
-    "id": 64,
-    "price": "81.02",
-    "qty": "25",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-11-21",
-    "des": "Falcon",
-    "icode": "G0046-46",
-    "id": 65,
-    "price": "200",
-    "qty": "120",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-24",
-    "des": "Sonas",
-    "icode": "G0006-6",
-    "id": 66,
-    "price": "305",
-    "qty": "240",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-27",
-    "des": "Sonas",
-    "icode": "G0006-6",
-    "id": 67,
-    "price": "307.5",
-    "qty": "240",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-28",
-    "des": "Jaleel",
-    "icode": "G0035-35",
-    "id": 68,
-    "price": "51",
-    "qty": "15",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-11-28",
-    "des": "Jaleel-Masafi",
-    "icode": "G0084-84",
-    "id": 69,
-    "price": "63.50",
-    "qty": "30",
-    "unit": "Box"
-  },
-  {
-    "date": "2023-11-28",
-    "des": "Jaleel-Deer",
-    "icode": "G0057-57",
-    "id": 70,
-    "price": "32.75",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-28",
-    "des": "G N Trading",
-    "icode": "G0086-86",
-    "id": 71,
-    "price": "201",
-    "qty": "45",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-11-28",
-    "des": "G N Trading",
-    "icode": "G0087-87",
-    "id": 72,
-    "price": "67",
-    "qty": "25",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-11-28",
-    "des": "G N Trading",
-    "icode": "G0088-88",
-    "id": 73,
-    "price": "296",
-    "qty": "100",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-11-29",
-    "des": "Falcon",
-    "icode": "PM0089-89",
-    "id": 74,
-    "price": "49",
-    "qty": "10",
-    "unit": "Box"
-  },
-  {
-    "date": "2023-11-29",
-    "des": "Falcon-Ahlan",
-    "icode": "G0090-90",
-    "id": 75,
-    "price": "42",
-    "qty": "100",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-28",
-    "des": "Jaleel-Royal_No.1",
-    "icode": "T0085-85",
-    "id": 76,
-    "price": "31.5",
-    "qty": "12",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-30",
-    "des": "Baladi",
-    "icode": "G0091-91",
-    "id": 77,
-    "price": "65",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-02",
-    "des": "Rukn",
-    "icode": "G0094-94",
-    "id": 78,
-    "price": "132",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-12-02",
-    "des": "Rukn",
-    "icode": "G0095-95",
-    "id": 79,
-    "price": "78",
-    "qty": "6",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-11-28",
-    "des": "Jaleel",
-    "icode": "G0002-2",
-    "id": 80,
-    "price": "39",
-    "qty": "20",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-01",
-    "des": "Falcon",
-    "icode": "G0059-59",
-    "id": 81,
-    "price": "161",
-    "qty": "35",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-12-01",
-    "des": "Falcon",
-    "icode": "G0096-96",
-    "id": 82,
-    "price": "92",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-01",
-    "des": "Falcon",
-    "icode": "G0097-97",
-    "id": 83,
-    "price": "40",
-    "qty": "100",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-30",
-    "des": "Trusted Tamam",
-    "icode": "G0093-93",
-    "id": 84,
-    "price": "54",
-    "qty": "27",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-05",
-    "des": "Al Sila",
-    "icode": "G0098-98",
-    "id": 85,
-    "price": "132.5",
-    "qty": "120",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-05",
-    "des": "Al Sila",
-    "icode": "G0036-36",
-    "id": 86,
-    "price": "60.5",
-    "qty": "15",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-12-05",
-    "des": "Areej_10ctn",
-    "icode": "G0014-14",
-    "id": 87,
-    "price": "340",
-    "qty": "120",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-07",
-    "des": "Areej",
-    "icode": "G0015-15",
-    "id": 88,
-    "price": "480",
-    "qty": "60",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-05",
-    "des": "Felcon",
-    "icode": "G0099-99",
-    "id": 89,
-    "price": "170",
-    "qty": "60",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-05",
-    "des": "Felcon",
-    "icode": "G0100-100",
-    "id": 90,
-    "price": "32",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-05",
-    "des": "Felcon",
-    "icode": "G0040-40",
-    "id": 91,
-    "price": "44",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-05",
-    "des": "Felcon",
-    "icode": "G0101-101",
-    "id": 92,
-    "price": "57",
-    "qty": "15",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-12-05",
-    "des": "Sonas",
-    "icode": "G0100-100",
-    "id": 93,
-    "price": "31.75",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-05",
-    "des": "Sonas",
-    "icode": "G0006-6",
-    "id": 94,
-    "price": "304",
-    "qty": "240",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-05",
-    "des": "Sonas",
-    "icode": "G0018-18",
-    "id": 95,
-    "price": "150",
-    "qty": "50",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-12-09",
-    "des": "Falcon",
-    "icode": "G0045-45",
-    "id": 96,
-    "price": "146",
-    "qty": "35",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-12-10",
-    "des": "Jaleel",
-    "icode": "G0045-45",
-    "id": 97,
-    "price": "146",
-    "qty": "35",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-12-09",
-    "des": "Falcon",
-    "icode": "G0102-102",
-    "id": 98,
-    "price": "39",
-    "qty": "20",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-09",
-    "des": "Falcon",
-    "icode": "G0103-103",
-    "id": 99,
-    "price": "32",
-    "qty": "20",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-09",
-    "des": "Falcon",
-    "icode": "G0035-35",
-    "id": 100,
-    "price": "51",
-    "qty": "15",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-12-09",
-    "des": "Falcon",
-    "icode": "G0105-105",
-    "id": 101,
-    "price": "46",
-    "qty": "15",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-12-09",
-    "des": "Falcon",
-    "icode": "G0104-104",
-    "id": 102,
-    "price": "42",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-06",
-    "des": "Aaliya Cosmetic",
-    "icode": "H0106-106",
-    "id": 103,
-    "price": "9",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-06",
-    "des": "Aaliya Cosmetic",
-    "icode": "H0107-107",
-    "id": 104,
-    "price": "9",
-    "qty": "6",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-06",
-    "des": "Aaliya Cosmetics",
-    "icode": "PM0108-108",
-    "id": 105,
-    "price": "12",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-13",
-    "des": "Trusted Food Trading",
-    "icode": "G0092-92",
-    "id": 106,
-    "price": "100",
-    "qty": "80",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-13",
-    "des": "Aaliya Cosmetics",
-    "icode": "H0107-107",
-    "id": 107,
-    "price": "9",
-    "qty": "6",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-13",
-    "des": "Aaliya Cosmetics",
-    "icode": "H0106-106",
-    "id": 108,
-    "price": "18",
-    "qty": "20",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-13",
-    "des": "Aaliya Cosmetics",
-    "icode": "PM0109-109",
-    "id": 109,
-    "price": "15",
-    "qty": "6",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-13",
-    "des": "Aaliya_Panasonic",
-    "icode": "S0110-110",
-    "id": 110,
-    "price": "24",
-    "qty": "60",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-13",
-    "des": "Aaliya Cosmetics",
-    "icode": "H0112-112",
-    "id": 111,
-    "price": "13.5",
-    "qty": "50",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-12",
-    "des": "Falcon",
-    "icode": "G0016-16",
-    "id": 112,
-    "price": "78",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-12",
-    "des": "Falcon",
-    "icode": "G0045-45",
-    "id": 113,
-    "price": "146",
-    "qty": "35",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-12-16",
-    "des": "Jaleel",
-    "icode": "G0002-2",
-    "id": 114,
-    "price": "39",
-    "qty": "20",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-13",
-    "des": "Falcon",
-    "icode": "PM0089-89",
-    "id": 115,
-    "price": "49",
-    "qty": "10",
-    "unit": "Box"
-  },
-  {
-    "date": "2023-12-13",
-    "des": "Falcon",
-    "icode": "G0033-33",
-    "id": 116,
-    "price": "101",
-    "qty": "15",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-12-13",
-    "des": "Falcon",
-    "icode": "G0102-102",
-    "id": 117,
-    "price": "39",
-    "qty": "20",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-13",
-    "des": "Falcon",
-    "icode": "G0114-114",
-    "id": 118,
-    "price": "38",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-18",
-    "des": "Jaleel",
-    "icode": "G0045-45",
-    "id": 119,
-    "price": "291",
-    "qty": "70",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-12-18",
-    "des": "Jaleel",
-    "icode": "G0018-18",
-    "id": 120,
-    "price": "145",
-    "qty": "50",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-12-13",
-    "des": "Falcon",
-    "icode": "H0115-115",
-    "id": 121,
-    "price": "12.5",
-    "qty": "12",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-13",
-    "des": "Falcon_Al Alali",
-    "icode": "G0116-116",
-    "id": 122,
-    "price": "29.5",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-19",
-    "des": "Falcon",
-    "icode": "G0083-83",
-    "id": 123,
-    "price": "81",
-    "qty": "25",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-01-01",
-    "des": "Falcon_2Bag",
-    "icode": "G0083-83",
-    "id": 124,
-    "price": "164",
-    "qty": "50",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-01-01",
-    "des": "Falcon_1Bag",
-    "icode": "G0018-18",
-    "id": 125,
-    "price": "141",
-    "qty": "50",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-01-01",
-    "des": "Jaleel_Jubair",
-    "icode": "G0051-51",
-    "id": 126,
-    "price": "205",
-    "qty": "39",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-01-02",
-    "des": "Areej",
-    "icode": "G0014-14",
-    "id": 127,
-    "price": "310",
-    "qty": "120",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-01-02",
-    "des": "Areej",
-    "icode": "G0015-15",
-    "id": 128,
-    "price": "460",
-    "qty": "60",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-01-02",
-    "des": "Pusti_Burhan",
-    "icode": "G0117-117",
-    "id": 129,
-    "price": "16",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-01-02",
-    "des": "Pusti_Burhan",
-    "icode": "G0118-118",
-    "id": 130,
-    "price": "22",
-    "qty": "32",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-01-04",
-    "des": "Ocean Fish",
-    "icode": "G0119-119",
-    "id": 131,
-    "price": "80",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-01-04",
-    "des": "Ocean Fish",
-    "icode": "G0120-120",
-    "id": 132,
-    "price": "63",
-    "qty": "10",
-    "unit": "Pkt"
-  },
-  {
-    "date": "2024-01-04",
-    "des": "Falcon",
-    "icode": "G0121-121",
-    "id": 133,
-    "price": "75",
-    "qty": "20",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-01-04",
-    "des": "Falcon",
-    "icode": "G0122-122",
-    "id": 134,
-    "price": "39",
-    "qty": "20",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-01-04",
-    "des": "Falcon",
-    "icode": "G0043-43",
-    "id": 135,
-    "price": "53",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-01-04",
-    "des": "Falcon",
-    "icode": "G0102-102",
-    "id": 136,
-    "price": "39",
-    "qty": "20",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-01-04",
-    "des": "Falcon",
-    "icode": "G0016-16",
-    "id": 137,
-    "price": "83",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-01-04",
-    "des": "Falcon",
-    "icode": "G0099-99",
-    "id": 138,
-    "price": "170",
-    "qty": "60",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-01-04",
-    "des": "Sonas",
-    "icode": "G0053-53",
-    "id": 139,
-    "price": "46",
-    "qty": "2",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-01-06",
-    "des": "Jaleel_5Bag",
-    "icode": "G0045-45",
-    "id": 140,
-    "price": "727.5",
-    "qty": "175",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-01-07",
-    "des": "Rukn Al Bahar",
-    "icode": "G0123-123",
-    "id": 141,
-    "price": "45",
-    "qty": "10",
-    "unit": "Pkt"
-  },
-  {
-    "date": "2024-01-07",
-    "des": "Rukn Al Bahar",
-    "icode": "G0124-124",
-    "id": 142,
-    "price": "90",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-01-07",
-    "des": "Rukn Al Bahar",
-    "icode": "G0125-125",
-    "id": 143,
-    "price": "60",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-01-07",
-    "des": "Ocean Frozen",
-    "icode": "G0126-126",
-    "id": 144,
-    "price": "68",
-    "qty": "25",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-01-07",
-    "des": "Ocean Frozen",
-    "icode": "G0127-127",
-    "id": 145,
-    "price": "66",
-    "qty": "11",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-01-07",
-    "des": "Ocean Frozen",
-    "icode": "G0128-128",
-    "id": 146,
-    "price": "240",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-01-08",
-    "des": "Ocean Frozen",
-    "icode": "G0129-129",
-    "id": 147,
-    "price": "137",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-01-08",
-    "des": "Ocean Frozen",
-    "icode": "G0130-130",
-    "id": 148,
-    "price": "170.5",
-    "qty": "22",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-01-08",
-    "des": "Ocean Frozen",
-    "icode": "G0131-131",
-    "id": 149,
-    "price": "184.8",
-    "qty": "22",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-02",
-    "des": "Jaleel",
-    "icode": "G0035-35",
-    "id": 150,
-    "price": "54",
-    "qty": "15",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-02",
-    "des": "Jaleel",
-    "icode": "PM0132-132",
-    "id": 151,
-    "price": "30",
-    "qty": "6",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-02",
-    "des": "Jaleel",
-    "icode": "PM0134-134",
-    "id": 152,
-    "price": "40",
-    "qty": "5",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-07",
-    "des": "Arab_&_India_Spices_49",
-    "icode": "G0034-34",
-    "id": 153,
-    "price": "245",
-    "qty": "75",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-07",
-    "des": "Arab_&_India_Spices_51",
-    "icode": "G0035-35",
-    "id": 154,
-    "price": "255",
-    "qty": "75",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-07",
-    "des": "Arab_&_India_Spices_53",
-    "icode": "G0036-36",
-    "id": 155,
-    "price": "106",
-    "qty": "30",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-07",
-    "des": "Arab_&_India_Spices_100",
-    "icode": "G0033-33",
-    "id": 156,
-    "price": "200",
-    "qty": "30",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-08",
-    "des": "Arab_&_India_Spices_Ameera_11",
-    "icode": "G0050-50",
-    "id": 157,
-    "price": "275",
-    "qty": "25",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-08",
-    "des": "Arab_&_India_Spices_77_11",
-    "icode": "G0056-56",
-    "id": 158,
-    "price": "55",
-    "qty": "5",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-08",
-    "des": "Arab_&_India_Spices_77_20",
-    "icode": "G0052-52",
-    "id": 159,
-    "price": "400",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-01-31",
-    "des": "Al_Trafa_Me",
-    "icode": "G0150-150",
-    "id": 160,
-    "price": "462",
-    "qty": "23.1",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-01",
-    "des": "Al_Trafa_Me",
-    "icode": "G0150-150",
-    "id": 161,
-    "price": "984",
-    "qty": "49.2",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-02",
-    "des": "Al_Trafa_Me",
-    "icode": "G0150-150",
-    "id": 162,
-    "price": "605",
-    "qty": "30.3",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-05",
-    "des": "Al_Trafa_Me",
-    "icode": "G0150-150",
-    "id": 163,
-    "price": "928.5",
-    "qty": "46.45",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-07",
-    "des": "Al_Trafa_Asrar",
-    "icode": "G0150-150",
-    "id": 164,
-    "price": "1276",
-    "qty": "65.45",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-09",
-    "des": "Al_Trafa_Asrar",
-    "icode": "G0150-150",
-    "id": 165,
-    "price": "867",
-    "qty": "44.5",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-10",
-    "des": "Al_Tarafa_Asrar",
-    "icode": "G0150-150",
-    "id": 166,
-    "price": "619",
-    "qty": "32",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-11",
-    "des": "Al_Tarafa_Asrar",
-    "icode": "G0150-150",
-    "id": 167,
-    "price": "1180",
-    "qty": "61.3",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-12",
-    "des": "Al_Tarafa_Asrar",
-    "icode": "G0150-150",
-    "id": 168,
-    "price": "33.4",
-    "qty": "1.73",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-13",
-    "des": "Al_Tarafa_Asrar",
-    "icode": "G0150-150",
-    "id": 169,
-    "price": "1198",
-    "qty": "62.3",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-14",
-    "des": "Al_Tarafa_Asrar",
-    "icode": "G0150-150",
-    "id": 170,
-    "price": "500",
-    "qty": "26",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-15",
-    "des": "Al_Tarafa_Asrar",
-    "icode": "G0150-150",
-    "id": 171,
-    "price": "1164.3",
-    "qty": "60",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-16",
-    "des": "Al_Tarafa_Asrar",
-    "icode": "G0150-150",
-    "id": 172,
-    "price": "1080.8",
-    "qty": "55.5",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-17",
-    "des": "Al_Tarafa_Asrar",
-    "icode": "G0150-150",
-    "id": 173,
-    "price": "578.17",
-    "qty": "29.65",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-17",
-    "des": "Al_Tarafa_Liver",
-    "icode": "G0150-150",
-    "id": 174,
-    "price": "80",
-    "qty": "4.1",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-18",
-    "des": "Al_Tarafa_Calc",
-    "icode": "G0150-150",
-    "id": 175,
-    "price": "0",
-    "qty": "16.92",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-19",
-    "des": "Al_Tarafa_Asrar",
-    "icode": "G0150-150",
-    "id": 176,
-    "price": "1124.7",
-    "qty": "57.7",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-19",
-    "des": "Al_Tarafa_Liver",
-    "icode": "G0150-150",
-    "id": 177,
-    "price": "100",
-    "qty": "5.128",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-03",
-    "des": "Ocean Frozen",
-    "icode": "G0155-155",
-    "id": 178,
-    "price": "135",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-03",
-    "des": "Ocean Frozen",
-    "icode": "G0094-94",
-    "id": 179,
-    "price": "130",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-03",
-    "des": "Falcon",
-    "icode": "G0051-51",
-    "id": 180,
-    "price": "205",
-    "qty": "39",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-03",
-    "des": "Falcon",
-    "icode": "G0043-43",
-    "id": 181,
-    "price": "53.5",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-03",
-    "des": "Falcon_8.75",
-    "icode": "G0156-156",
-    "id": 182,
-    "price": "52.5",
-    "qty": "6",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-01",
-    "des": "Jaleel",
-    "icode": "G0035-35",
-    "id": 183,
-    "price": "54",
-    "qty": "15",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-01",
-    "des": "Jaleel_5",
-    "icode": "PM0132-132",
-    "id": 184,
-    "price": "30",
-    "qty": "6",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-01",
-    "des": "Jaleel_7.84",
-    "icode": "PM0134-134",
-    "id": 185,
-    "price": "39.2",
-    "qty": "5",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-02",
-    "des": "Jaleel_8.5",
-    "icode": "G0055-55",
-    "id": 186,
-    "price": "17",
-    "qty": "2",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-01",
-    "des": "Felcon_41",
-    "icode": "G0122-122",
-    "id": 187,
-    "price": "82",
-    "qty": "40",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-01",
-    "des": "Felcon_78",
-    "icode": "G0121-121",
-    "id": 188,
-    "price": "78",
-    "qty": "20",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-01",
-    "des": "Jaleel",
-    "icode": "G0122-122",
-    "id": 189,
-    "price": "42",
-    "qty": "20",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-03",
-    "des": "Al_Safa_Cosmetics",
-    "icode": "G0157-157",
-    "id": 190,
-    "price": "30",
-    "qty": "12",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-05",
-    "des": "Jaleel",
-    "icode": "G0158-158",
-    "id": 191,
-    "price": "60",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-05",
-    "des": "Jaleel",
-    "icode": "G0159-159",
-    "id": 192,
-    "price": "115",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-05",
-    "des": "Sonas_15.75",
-    "icode": "G0050-50",
-    "id": 193,
-    "price": "31.5",
-    "qty": "2",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-05",
-    "des": "Sonas_Nureen",
-    "icode": "G0100-100",
-    "id": 194,
-    "price": "29",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-07",
-    "des": "Falcon_1.417",
-    "icode": "S0160-160",
-    "id": 195,
-    "price": "34",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-06",
-    "des": "Falcon_1.48",
-    "icode": "G0161-161",
-    "id": 196,
-    "price": "71",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-06",
-    "des": "Falcon",
-    "icode": "G0069-69",
-    "id": 197,
-    "price": "161",
-    "qty": "35",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-07",
-    "des": "Jaleel",
-    "icode": "G0002-2",
-    "id": 198,
-    "price": "39",
-    "qty": "20",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-08",
-    "des": "Arab_&_India_16.4",
-    "icode": "G0063-63",
-    "id": 199,
-    "price": "82",
-    "qty": "5",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-01-14",
-    "des": "Ocean_Frozen_6.75",
-    "icode": "G0155-155",
-    "id": 200,
-    "price": "135",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-01-14",
-    "des": "Ocean_Frozen_6.9",
-    "icode": "G0129-129",
-    "id": 201,
-    "price": "138",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-10",
-    "des": "Falcon_37",
-    "icode": "G0102-102",
-    "id": 202,
-    "price": "74",
-    "qty": "40",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-10",
-    "des": "Falcon",
-    "icode": "G0162-162",
-    "id": 203,
-    "price": "20",
-    "qty": "12",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-10",
-    "des": "Ocean_Frozen",
-    "icode": "G0163-163",
-    "id": 204,
-    "price": "160",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-11",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0128-128",
-    "id": 205,
-    "price": "245",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-11",
-    "des": "Rukn_Al_Bahar_140",
-    "icode": "G0155-155",
-    "id": 206,
-    "price": "420",
-    "qty": "60",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-11",
-    "des": "Rukn_Al_Bahar_135",
-    "icode": "G0094-94",
-    "id": 207,
-    "price": "405",
-    "qty": "60",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-07",
-    "des": "Ocean_Frozen",
-    "icode": "G0130-130",
-    "id": 208,
-    "price": "165",
-    "qty": "22",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-07",
-    "des": "Ocean_Frozen",
-    "icode": "G0155-155",
-    "id": 209,
-    "price": "134",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-13",
-    "des": "Ocean_Frozen",
-    "icode": "G0130-130",
-    "id": 210,
-    "price": "162.75",
-    "qty": "21",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-13",
-    "des": "Ocean_Frozen_9.25",
-    "icode": "G0167-167",
-    "id": 211,
-    "price": "185",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-13",
-    "des": "Ocean_Frozen_6",
-    "icode": "G0166-166",
-    "id": 212,
-    "price": "60",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-13",
-    "des": "Falcon",
-    "icode": "G0051-51",
-    "id": 213,
-    "price": "205",
-    "qty": "39",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-13",
-    "des": "Falcon",
-    "icode": "G0043-43",
-    "id": 214,
-    "price": "53.5",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-13",
-    "des": "Falcon",
-    "icode": "G0004-4",
-    "id": 215,
-    "price": "70",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-13",
-    "des": "Falcon",
-    "icode": "G0005-5",
-    "id": 216,
-    "price": "90",
-    "qty": "32",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-13",
-    "des": "Falcon",
-    "icode": "G0038-38",
-    "id": 217,
-    "price": "78.75",
-    "qty": "72",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-13",
-    "des": "Falcon_2.6",
-    "icode": "G0087-87",
-    "id": 218,
-    "price": "65",
-    "qty": "25",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-13",
-    "des": "Falcon",
-    "icode": "G0090-90",
-    "id": 219,
-    "price": "42.5",
-    "qty": "100",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-13",
-    "des": "Falcon",
-    "icode": "G0053-53",
-    "id": 220,
-    "price": "21",
-    "qty": "1",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-13",
-    "des": "Falcon_2.95",
-    "icode": "G0168-168",
-    "id": 221,
-    "price": "44",
-    "qty": "15",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-13",
-    "des": "Sonas_8.5",
-    "icode": "G0055-55",
-    "id": 222,
-    "price": "17",
-    "qty": "2",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-14",
-    "des": "Rukn_Al_Bahar_58",
-    "icode": "G0125-125",
-    "id": 223,
-    "price": "116",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-14",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0127-127",
-    "id": 224,
-    "price": "60",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-14",
-    "des": "Baladi",
-    "icode": "G0127-127",
-    "id": 225,
-    "price": "128",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-16",
-    "des": "Baladi_25",
-    "icode": "G0080-80",
-    "id": 226,
-    "price": "50",
-    "qty": "2",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-16",
-    "des": "Baladi",
-    "icode": "G0169-169",
-    "id": 227,
-    "price": "30",
-    "qty": "1",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-18",
-    "des": "Jaleel_44.5",
-    "icode": "G0171-171",
-    "id": 228,
-    "price": "89",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-18",
-    "des": "Jaleel_22.5",
-    "icode": "G0170-170",
-    "id": 229,
-    "price": "45",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-18",
-    "des": "Jaleel",
-    "icode": "G0100-100",
-    "id": 230,
-    "price": "33",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-19",
-    "des": "Falcon_70",
-    "icode": "G0004-4",
-    "id": 231,
-    "price": "140",
-    "qty": "96",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-19",
-    "des": "Falcon",
-    "icode": "G0038-38",
-    "id": 232,
-    "price": "78.75",
-    "qty": "72",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-19",
-    "des": "Falcon",
-    "icode": "G0039-39",
-    "id": 233,
-    "price": "76.15",
-    "qty": "32",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-20",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0124-124",
-    "id": 234,
-    "price": "100",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-20",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0172-172",
-    "id": 235,
-    "price": "85",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-20",
-    "des": "Sonas",
-    "icode": "G0049-49",
-    "id": 236,
-    "price": "35",
-    "qty": "500",
-    "unit": "Gm"
-  },
-  {
-    "date": "2024-02-21",
-    "des": "Falcon",
-    "icode": "G0173-173",
-    "id": 237,
-    "price": "9",
-    "qty": "1",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-21",
-    "des": "Falcon",
-    "icode": "G0174-174",
-    "id": 238,
-    "price": "38",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-21",
-    "des": "Jaleel_42",
-    "icode": "G0122-122",
-    "id": 239,
-    "price": "84",
-    "qty": "40",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-21",
-    "des": "Jaleel",
-    "icode": "G0121-121",
-    "id": 240,
-    "price": "86",
-    "qty": "20",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-22",
-    "des": "Ocean_Frozen",
-    "icode": "G0001-1",
-    "id": 241,
-    "price": "38",
-    "qty": "1",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-22",
-    "des": "Ocean_Frozen",
-    "icode": "G0175-175",
-    "id": 242,
-    "price": "90",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-23",
-    "des": "Al_Tarafa_Asrar",
-    "icode": "G0150-150",
-    "id": 243,
-    "price": "620",
-    "qty": "31.8",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-24",
-    "des": "Al_Tarafa_Asrar",
-    "icode": "G0150-150",
-    "id": 244,
-    "price": "544",
-    "qty": "27.9",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-25",
-    "des": "Al_Tarafa_Asrar",
-    "icode": "G0150-150",
-    "id": 245,
-    "price": "505",
-    "qty": "25.9",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-26",
-    "des": "Al_Tarafa_Asrar",
-    "icode": "G0150-150",
-    "id": 246,
-    "price": "1117.2",
-    "qty": "57.3",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-29",
-    "des": "Al_Tarafa_Asrar",
-    "icode": "G0150-150",
-    "id": 247,
-    "price": "1521",
-    "qty": "78",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-01",
-    "des": "Al_Tarafa_Asrar",
-    "icode": "G0150-150",
-    "id": 248,
-    "price": "452.4",
-    "qty": "23.2",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-02",
-    "des": "Darb_Alfalah",
-    "icode": "G0150-150",
-    "id": 249,
-    "price": "505",
-    "qty": "25.9",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-02",
-    "des": "Al_Falah",
-    "icode": "G0150-150",
-    "id": 250,
-    "price": "981",
-    "qty": "50.31",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-03",
-    "des": "Faisal_Iqbal",
-    "icode": "G0150-150",
-    "id": 251,
-    "price": "490.5",
-    "qty": "25.15",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-04",
-    "des": "Faisal_Iqbal",
-    "icode": "G0150-150",
-    "id": 252,
-    "price": "492.381",
-    "qty": "25.25",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-05",
-    "des": "Faisal_Iqbal",
-    "icode": "G0150-150",
-    "id": 253,
-    "price": "577",
-    "qty": "29.59",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-29",
-    "des": "Falcon_Liver",
-    "icode": "G0150-150",
-    "id": 254,
-    "price": "122.5",
-    "qty": "6.2821",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-16",
-    "des": "AlFalah_Meat",
-    "icode": "G0150-150",
-    "id": 255,
-    "price": "1394.3",
-    "qty": "71.5",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-16",
-    "des": "Al_Asrar",
-    "icode": "G0150-150",
-    "id": 256,
-    "price": "890.48",
-    "qty": "45.6654",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-18",
-    "des": "Al_Asrar",
-    "icode": "G0150-150",
-    "id": 257,
-    "price": "1407.62",
-    "qty": "72.1856",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-19",
-    "des": "Al_Asrar",
-    "icode": "G0150-150",
-    "id": 258,
-    "price": "35",
-    "qty": "35",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-20",
-    "des": "Al_Asrar",
-    "icode": "G0150-150",
-    "id": 259,
-    "price": "750.5",
-    "qty": "38.5",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-21",
-    "des": "Al_Asrar",
-    "icode": "G0150-150",
-    "id": 260,
-    "price": "493.5",
-    "qty": "25.3",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-29",
-    "des": "A.Rahman_Guava",
-    "icode": "G0184-184",
-    "id": 261,
-    "price": "34",
-    "qty": "12",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-03-29",
-    "des": "A.Rehman_4ctn_36",
-    "icode": "G0185-185",
-    "id": 262,
-    "price": "144",
-    "qty": "96",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-03-30",
-    "des": "Al_Safa_24*12pcs",
-    "icode": "H0115-115",
-    "id": 263,
-    "price": "115",
-    "qty": "288",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-04-05",
-    "des": "Faruk_33*10",
-    "icode": "G0186-186",
-    "id": 264,
-    "price": "330",
-    "qty": "120",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-04-04",
-    "des": "Faruk",
-    "icode": "G0188-188",
-    "id": 265,
-    "price": "55",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-03-01",
-    "des": "Faruk",
-    "icode": "G0189-189",
-    "id": 266,
-    "price": "170",
-    "qty": "10000",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Arab_&_India_5bag",
-    "icode": "G0034-34",
-    "id": 267,
-    "price": "240",
-    "qty": "75",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Arab_&_India_5bag_49",
-    "icode": "G0035-35",
-    "id": 268,
-    "price": "245",
-    "qty": "75",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Arab_&_India_2bag_53",
-    "icode": "G0036-36",
-    "id": 269,
-    "price": "105",
-    "qty": "30",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Arab_&_India_2bag_46",
-    "icode": "G0101-101",
-    "id": 270,
-    "price": "92",
-    "qty": "30",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Arab_&_India_2bag_95",
-    "icode": "G0033-33",
-    "id": 271,
-    "price": "190",
-    "qty": "30",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Pran_50bag_55",
-    "icode": "G0037-37",
-    "id": 272,
-    "price": "2750",
-    "qty": "900",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Pran_25tin_70",
-    "icode": "G0066-66",
-    "id": 273,
-    "price": "1750",
-    "qty": "450",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-21",
-    "des": "SBM_Siddik_5bag_129",
-    "icode": "G0018-18",
-    "id": 274,
-    "price": "645",
-    "qty": "250",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-21",
-    "des": "Falcon_4bag_135",
-    "icode": "G0088-88",
-    "id": 275,
-    "price": "540",
-    "qty": "200",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-21",
-    "des": "Faruk_5ctn*20pcs",
-    "icode": "G0182-182",
-    "id": 276,
-    "price": "235",
-    "qty": "100",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-04-25",
-    "des": "Falcon_54",
-    "icode": "G0129-129",
-    "id": 277,
-    "price": "108",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-04-25",
-    "des": "Falcon_54",
-    "icode": "G0129-129",
-    "id": 278,
-    "price": "108",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-22",
-    "des": "South_Link_Awir",
-    "icode": "G0193-193",
-    "id": 279,
-    "price": "160",
-    "qty": "10",
-    "unit": "Bag"
-  },
-  {
-    "date": "2024-02-22",
-    "des": "South_Link_Awir_2ctn",
-    "icode": "G0197-197",
-    "id": 280,
-    "price": "54",
-    "qty": "100",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-22",
-    "des": "South_Link_Awir_13",
-    "icode": "G0194-194",
-    "id": 281,
-    "price": "104",
-    "qty": "8",
-    "unit": "Ctn"
-  },
-  {
-    "date": "2024-02-22",
-    "des": "South_Link_Awir_1/2ctn",
-    "icode": "G0198-198",
-    "id": 282,
-    "price": "74",
-    "qty": "180",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-22",
-    "des": "South_Link_Awir_1ctn_2.125ppcs",
-    "icode": "G0199-199",
-    "id": 283,
-    "price": "51",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-22",
-    "des": "South_Link_Awir_1ctn_4.25ppcs",
-    "icode": "G0200-200",
-    "id": 284,
-    "price": "51",
-    "qty": "12",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-22",
-    "des": "South_Link_Awir_1ctn",
-    "icode": "G0202-202",
-    "id": 285,
-    "price": "32",
-    "qty": "72",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-22",
-    "des": "South_Link_Awir_1ctn",
-    "icode": "G0195-195",
-    "id": 286,
-    "price": "38",
-    "qty": "1",
-    "unit": "Ctn"
-  },
-  {
-    "date": "2024-02-22",
-    "des": "South_Link_Awir_1ctn",
-    "icode": "G0201-201",
-    "id": 287,
-    "price": "34",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-22",
-    "des": "South_Link_Awir_8",
-    "icode": "G0196-196",
-    "id": 288,
-    "price": "24",
-    "qty": "3",
-    "unit": "Ctn"
-  },
-  {
-    "date": "2024-02-23",
-    "des": "Baladi_Food",
-    "icode": "G0209-209",
-    "id": 289,
-    "price": "105",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-23",
-    "des": "Baladi_Food",
-    "icode": "G0125-125",
-    "id": 290,
-    "price": "58",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-22",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0210-210",
-    "id": 291,
-    "price": "35",
-    "qty": "5",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-22",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0176-176",
-    "id": 292,
-    "price": "75",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-22",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0177-177",
-    "id": 293,
-    "price": "90",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-22",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0001-1",
-    "id": 294,
-    "price": "35",
-    "qty": "1",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-22",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0178-178",
-    "id": 295,
-    "price": "70",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-22",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0179-179",
-    "id": 296,
-    "price": "75",
-    "qty": "5",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-22",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0180-180",
-    "id": 297,
-    "price": "135",
-    "qty": "25",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-22",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0181-181",
-    "id": 298,
-    "price": "80",
-    "qty": "6",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-28",
-    "des": "Falcon",
-    "icode": "G0211-211",
-    "id": 299,
-    "price": "76.8",
-    "qty": "12",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-24",
-    "des": "Falcon_2ctn_38",
-    "icode": "G0002-2",
-    "id": 300,
-    "price": "76",
-    "qty": "40",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-24",
-    "des": "Falcon_Ind",
-    "icode": "G0102-102",
-    "id": 301,
-    "price": "37",
-    "qty": "20",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-05-18",
-    "des": "Al_Safa",
-    "icode": "H0212-212",
-    "id": 302,
-    "price": "13",
-    "qty": "12",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-05-18",
-    "des": "Al_Safa_3.5",
-    "icode": "PM0070-70",
-    "id": 303,
-    "price": "42",
-    "qty": "12",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-05-18",
-    "des": "Al_Safa_11.5",
-    "icode": "PM0216-216",
-    "id": 304,
-    "price": "92",
-    "qty": "8",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-05-18",
-    "des": "Al_Safa_0.612",
-    "icode": "PM0219-219",
-    "id": 305,
-    "price": "470",
-    "qty": "768",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-05-18",
-    "des": "Al_Safa",
-    "icode": "PM0220-220",
-    "id": 306,
-    "price": "36",
-    "qty": "6",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-05-18",
-    "des": "Al_Safa_1.5",
-    "icode": "PM0221-221",
-    "id": 307,
-    "price": "18",
-    "qty": "12",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-05-18",
-    "des": "Al_Safa_2.5",
-    "icode": "PM0222-222",
-    "id": 308,
-    "price": "30",
-    "qty": "12",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-05-18",
-    "des": "Al_Safa_0.67",
-    "icode": "H0213-213",
-    "id": 309,
-    "price": "8",
-    "qty": "12",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-05-18",
-    "des": "Al_Safa_0.584",
-    "icode": "H0214-214",
-    "id": 310,
-    "price": "7",
-    "qty": "12",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-05-18",
-    "des": "Al_Safa_10.67",
-    "icode": "PM0133-133",
-    "id": 311,
-    "price": "64",
-    "qty": "6",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-05-18",
-    "des": "Al_Safa_9",
-    "icode": "PM0139-139",
-    "id": 312,
-    "price": "54",
-    "qty": "6",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-05-18",
-    "des": "Al_Safa_1.834",
-    "icode": "PM0223-223",
-    "id": 313,
-    "price": "22",
-    "qty": "12",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-05-18",
-    "des": "Al_Safa_2",
-    "icode": "PM0224-224",
-    "id": 314,
-    "price": "36",
-    "qty": "18",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-05-18",
-    "des": "Al_Safa",
-    "icode": "H0215-215",
-    "id": 315,
-    "price": "240",
-    "qty": "1000",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-05-15",
-    "des": "Sonas",
-    "icode": "G0038-38",
-    "id": 316,
-    "price": "79.5",
-    "qty": "72",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-05-15",
-    "des": "Sonas",
-    "icode": "G0004-4",
-    "id": 317,
-    "price": "73.5",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-05-16",
-    "des": "Felcon",
-    "icode": "G0161-161",
-    "id": 318,
-    "price": "70",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-05-16",
-    "des": "Felcon_15ctn_59.5_1.24",
-    "icode": "G0006-6",
-    "id": 319,
-    "price": "892.5",
-    "qty": "720",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-05-18",
-    "des": "Felcon_2.7",
-    "icode": "G0018-18",
-    "id": 320,
-    "price": "135",
-    "qty": "50",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-05-18",
-    "des": "Felcon_2.175",
-    "icode": "G0102-102",
-    "id": 321,
-    "price": "43.5",
-    "qty": "20",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-05-18",
-    "des": "Felcon_4.2",
-    "icode": "G0121-121",
-    "id": 322,
-    "price": "84",
-    "qty": "20",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-05-18",
-    "des": "Felcon_1.95",
-    "icode": "G0122-122",
-    "id": 323,
-    "price": "39",
-    "qty": "20",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-05-18",
-    "des": "Felcon_perdix_2.1",
-    "icode": "G0003-3",
-    "id": 324,
-    "price": "50",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-05-16",
-    "des": "Ocen_Frozen_8",
-    "icode": "G0225-225",
-    "id": 325,
-    "price": "176",
-    "qty": "22",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-05-16",
-    "des": "Ocen_Frozen_5.6",
-    "icode": "G0127-127",
-    "id": 326,
-    "price": "56",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-05-16",
-    "des": "Rukn_Al_Bahar_7.5",
-    "icode": "G0176-176",
-    "id": 327,
-    "price": "82.5",
-    "qty": "11",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-05-16",
-    "des": "Rukn_Al_Bahar_2ctn_135_6.75",
-    "icode": "G0155-155",
-    "id": 328,
-    "price": "270",
-    "qty": "40",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-05-16",
-    "des": "Rukn_Al_Bahar_3.55",
-    "icode": "G0226-226",
-    "id": 329,
-    "price": "85",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-03-09",
-    "des": "Felcon_10ctn_37.25",
-    "icode": "G0002-2",
-    "id": 330,
-    "price": "372.5",
-    "qty": "200",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-03-09",
-    "des": "Felcon_Al_Alali_5ctn_14.5",
-    "icode": "G0116-116",
-    "id": 331,
-    "price": "72.5",
-    "qty": "120",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-03-09",
-    "des": "Felcon_4",
-    "icode": "G0227-227",
-    "id": 332,
-    "price": "24",
-    "qty": "6",
-    "unit": "Out"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Ocean_Frozen_6.5",
-    "icode": "G0094-94",
-    "id": 333,
-    "price": "130",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Ocean_Frozen_8",
-    "icode": "G0228-228",
-    "id": 334,
-    "price": "80",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Ocean_Frozen_5.5",
-    "icode": "G0127-127",
-    "id": 335,
-    "price": "55",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Ocean_Frozen_30",
-    "icode": "G0164-164",
-    "id": 336,
-    "price": "300",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0228-228",
-    "id": 337,
-    "price": "85",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0164-164",
-    "id": 338,
-    "price": "305",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Rukn_Al_Bahar_7",
-    "icode": "G0129-129",
-    "id": 339,
-    "price": "140",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Rukn_Al_Bahar_6.75",
-    "icode": "G0155-155",
-    "id": 340,
-    "price": "135",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Rukn_Al_Bahar_7.5",
-    "icode": "G0130-130",
-    "id": 341,
-    "price": "157.5",
-    "qty": "21",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0229-229",
-    "id": 342,
-    "price": "94",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-01-07",
-    "des": "Jaleel_5bag_134",
-    "icode": "G0088-88",
-    "id": 343,
-    "price": "536",
-    "qty": "200",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-12-24",
-    "des": "Ocean_Frozen_5ctn_130",
-    "icode": "G0094-94",
-    "id": 344,
-    "price": "650",
-    "qty": "100",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-01-14",
-    "des": "Ocean_Frozen_6.75",
-    "icode": "G0155-155",
-    "id": 345,
-    "price": "135",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-01-14",
-    "des": "Ocean_Frozen_6.9",
-    "icode": "G0129-129",
-    "id": 346,
-    "price": "138",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-07",
-    "des": "Ocean_Frozen_7.5",
-    "icode": "G0130-130",
-    "id": 347,
-    "price": "165",
-    "qty": "22",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-07",
-    "des": "Ocean_Frozen_6.7",
-    "icode": "G0155-155",
-    "id": 348,
-    "price": "134",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-24",
-    "des": "Moittry_0.5ctn",
-    "icode": "G0067-67",
-    "id": 349,
-    "price": "28.6",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-25",
-    "des": "Felcon_A/Gourment_1.115",
-    "icode": "G0043-43",
-    "id": 350,
-    "price": "53.5",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-25",
-    "des": "Ocean_Frozen",
-    "icode": "G0230-230",
-    "id": 351,
-    "price": "165",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-26",
-    "des": "Ocean_Frozen",
-    "icode": "G0164-164",
-    "id": 352,
-    "price": "300",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-28",
-    "des": "Areej_Oil_20ctn_31",
-    "icode": "G0014-14",
-    "id": 353,
-    "price": "620",
-    "qty": "240",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-28",
-    "des": "Areej_Oil_15ctn_46",
-    "icode": "G0015-15",
-    "id": 354,
-    "price": "690",
-    "qty": "96",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-26",
-    "des": "Baladi",
-    "icode": "G0231-231",
-    "id": 355,
-    "price": "125",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-26",
-    "des": "GN_Trading_63",
-    "icode": "G0049-49",
-    "id": 356,
-    "price": "315",
-    "qty": "5",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-02",
-    "des": "Felcon_Thailand",
-    "icode": "G0232-232",
-    "id": 357,
-    "price": "48",
-    "qty": "50",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-03-01",
-    "des": "Sonas",
-    "icode": "G0051-51",
-    "id": 358,
-    "price": "209",
-    "qty": "39",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-01",
-    "des": "Sonas_5.65",
-    "icode": "PM0089-89",
-    "id": 359,
-    "price": "56.5",
-    "qty": "10",
-    "unit": "Box"
-  },
-  {
-    "date": "2023-10-30",
-    "des": "Sonas_Hayat_340gm_188",
-    "icode": "G0162-162",
-    "id": 360,
-    "price": "22.5",
-    "qty": "12",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-07",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0124-124",
-    "id": 361,
-    "price": "80",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-11-06",
-    "des": "Rukn_Al_Bahar_7.15",
-    "icode": "G0129-129",
-    "id": 362,
-    "price": "143",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-11-06",
-    "des": "Rukn_Al_Bahar_9.55",
-    "icode": "G0167-167",
-    "id": 363,
-    "price": "105",
-    "qty": "11",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-11-06",
-    "des": "Ocean_Frozen",
-    "icode": "G0233-233",
-    "id": 364,
-    "price": "45",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-11-04",
-    "des": "Sonas_2.9",
-    "icode": "G0234-234",
-    "id": 365,
-    "price": "43.5",
-    "qty": "15",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-11-16",
-    "des": "Rukn_Al_Bahar_26",
-    "icode": "G0080-80",
-    "id": 366,
-    "price": "78",
-    "qty": "3",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-12-12",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0233-233",
-    "id": 367,
-    "price": "45",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2023-12-12",
-    "des": "Rukn_Al_Bahar_8.13",
-    "icode": "G0130-130",
-    "id": 368,
-    "price": "179.3",
-    "qty": "22",
-    "unit": "Kg"
-  },
-  {
-    "date": "2023-12-18",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0163-163",
-    "id": 369,
-    "price": "175",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-21",
-    "des": "Arab_&_India",
-    "icode": "G0235-235",
-    "id": 370,
-    "price": "84",
-    "qty": "15",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-21",
-    "des": "Arab_&_India_45pp",
-    "icode": "G0101-101",
-    "id": 371,
-    "price": "90",
-    "qty": "30",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-02",
-    "des": "Arab_&_India_6.8",
-    "icode": "G0055-55",
-    "id": 372,
-    "price": "170",
-    "qty": "25",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-02",
-    "des": "Arab_&_India_4.6",
-    "icode": "G0173-173",
-    "id": 373,
-    "price": "115",
-    "qty": "25",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-04",
-    "des": "Jaleel_2bag_47.5",
-    "icode": "G0237-237",
-    "id": 374,
-    "price": "95",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-03",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0239-239",
-    "id": 375,
-    "price": "85",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-03",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0233-233",
-    "id": 376,
-    "price": "70",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-03-03",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0124-124",
-    "id": 377,
-    "price": "100",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-03-05",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0182-182",
-    "id": 378,
-    "price": "160",
-    "qty": "12",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-06",
-    "des": "Ocean_Frozem",
-    "icode": "G0240-240",
-    "id": 379,
-    "price": "65",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-06",
-    "des": "Ocean_Frozen",
-    "icode": "G0166-166",
-    "id": 380,
-    "price": "58",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-13",
-    "des": "Ocean_Frozen_2.4",
-    "icode": "G0126-126",
-    "id": 381,
-    "price": "60",
-    "qty": "25",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-03-13",
-    "des": "Ocean_Frozen",
-    "icode": "G0124-124",
-    "id": 382,
-    "price": "98",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-18",
-    "des": "Rukn_Al_Bahar_6.65",
-    "icode": "G0094-94",
-    "id": 383,
-    "price": "133",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-18",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0231-231",
-    "id": 384,
-    "price": "130",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-03-18",
-    "des": "Ocean_Frozen_6.55",
-    "icode": "G0094-94",
-    "id": 385,
-    "price": "131",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-18",
-    "des": "Baladi_Pak",
-    "icode": "G0231-231",
-    "id": 386,
-    "price": "123",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-03-17",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0228-228",
-    "id": 387,
-    "price": "85",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-17",
-    "des": "Rukn_Al_Bahar_2ctn",
-    "icode": "G0125-125",
-    "id": 388,
-    "price": "116",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-03-17",
-    "des": "Rukn_Al_Bahar_138",
-    "icode": "G0155-155",
-    "id": 389,
-    "price": "276",
-    "qty": "40",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-17",
-    "des": "Ocean_Frozen_2ctn_131",
-    "icode": "G0094-94",
-    "id": 390,
-    "price": "262",
-    "qty": "40",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-17",
-    "des": "Ocean_Frozen_2ctn_305",
-    "icode": "G0164-164",
-    "id": 391,
-    "price": "610",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-17",
-    "des": "Ocean_Frozen",
-    "icode": "G0127-127",
-    "id": 392,
-    "price": "57",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-19",
-    "des": "Falcon_Mitchells_850gm",
-    "icode": "G0062-62",
-    "id": 393,
-    "price": "38",
-    "qty": "6",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-03-19",
-    "des": "Falcon_Mitchells_425gm",
-    "icode": "G0061-61",
-    "id": 394,
-    "price": "38",
-    "qty": "12",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-03-19",
-    "des": "Jaleel_Taste_Basics",
-    "icode": "G0041-41",
-    "id": 395,
-    "price": "86",
-    "qty": "15",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-03-23",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0241-241",
-    "id": 396,
-    "price": "95",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-03-23",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0123-123",
-    "id": 397,
-    "price": "50",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-03-23",
-    "des": "Falcon",
-    "icode": "G0159-159",
-    "id": 398,
-    "price": "50",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-03-30",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0124-124",
-    "id": 399,
-    "price": "100",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-03",
-    "des": "Jaleel_2Bag_85",
-    "icode": "G0041-41",
-    "id": 400,
-    "price": "170",
-    "qty": "50",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-02",
-    "des": "Rukn_Al_Bahar_7.5",
-    "icode": "G0130-130",
-    "id": 401,
-    "price": "157.5",
-    "qty": "21",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-03",
-    "des": "Baladi_24",
-    "icode": "G0080-80",
-    "id": 402,
-    "price": "120",
-    "qty": "5",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-03",
-    "des": "Baladi",
-    "icode": "G0242-242",
-    "id": 403,
-    "price": "65",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-04-04",
-    "des": "Ocean_Frozen_7.25",
-    "icode": "G0129-129",
-    "id": 404,
-    "price": "145",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-04",
-    "des": "Ocean_Frozen",
-    "icode": "G0127-127",
-    "id": 405,
-    "price": "56.14",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-04",
-    "des": "Ocean_Frozen_28pp",
-    "icode": "G0169-169",
-    "id": 406,
-    "price": "56",
-    "qty": "2",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-06",
-    "des": "Falcon_4.95",
-    "icode": "H0072-72",
-    "id": 407,
-    "price": "89",
-    "qty": "18",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-04-06",
-    "des": "Falcon_5.7",
-    "icode": "G0243-243",
-    "id": 408,
-    "price": "34.2",
-    "qty": "6",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-20",
-    "des": "Rukn_Al_Bahar_2.42",
-    "icode": "G0125-125",
-    "id": 409,
-    "price": "58",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-20",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0124-124",
-    "id": 410,
-    "price": "100",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-18",
-    "des": "Jaleel_2bag_22.5pp",
-    "icode": "G0170-170",
-    "id": 411,
-    "price": "45",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-18",
-    "des": "Jaleel_2bag_44.5pp",
-    "icode": "G0171-171",
-    "id": 412,
-    "price": "89",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-16",
-    "des": "Baladi",
-    "icode": "G0169-169",
-    "id": 413,
-    "price": "30",
-    "qty": "1",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-02-01",
-    "des": "Jaleel_5",
-    "icode": "PM0132-132",
-    "id": 414,
-    "price": "30",
-    "qty": "6",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-02-01",
-    "des": "Jaleel_7.84",
-    "icode": "PM0134-134",
-    "id": 415,
-    "price": "39.2",
-    "qty": "5",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-04-23",
-    "des": "Rukn_Al_Bahar_58.34",
-    "icode": "G0244-244",
-    "id": 416,
-    "price": "175",
-    "qty": "36",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-23",
-    "des": "Rukn_Al_Bahar_3.5",
-    "icode": "G0226-226",
-    "id": 417,
-    "price": "42",
-    "qty": "12",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-04-23",
-    "des": "Rukn_Al_Bahar_2ctn_10kg_305",
-    "icode": "G0165-165",
-    "id": 418,
-    "price": "610",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-23",
-    "des": "Rukn_Al_Bahar_2.42",
-    "icode": "G0125-125",
-    "id": 419,
-    "price": "58",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-04-22",
-    "des": "Falcon",
-    "icode": "G0048-48",
-    "id": 420,
-    "price": "24",
-    "qty": "24",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-04-21",
-    "des": "Jaleel_7.875",
-    "icode": "G0245-245",
-    "id": 421,
-    "price": "47.25",
-    "qty": "6",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-04-21",
-    "des": "Jaleel_2.782",
-    "icode": "G0065-65",
-    "id": 422,
-    "price": "133.5",
-    "qty": "48",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-04-21",
-    "des": "Ocean_Frozen",
-    "icode": "G0233-233",
-    "id": 423,
-    "price": "60",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-04-21",
-    "des": "Ocean_Frozen",
-    "icode": "G0246-246",
-    "id": 424,
-    "price": "74",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0228-228",
-    "id": 425,
-    "price": "85",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0164-164",
-    "id": 426,
-    "price": "305",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Rukn_Al_Bahar_7",
-    "icode": "G0129-129",
-    "id": 427,
-    "price": "140",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Rukn_Al_Bahar_6.75",
-    "icode": "G0155-155",
-    "id": 428,
-    "price": "135",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Rukn_Al_Bahar_7.48",
-    "icode": "G0130-130",
-    "id": 429,
-    "price": "157",
-    "qty": "21",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Rukn_Al_Bahar_9.4",
-    "icode": "G0229-229",
-    "id": 430,
-    "price": "94",
-    "qty": "10",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Rukn_Al_Bahar_6.5",
-    "icode": "G0094-94",
-    "id": 431,
-    "price": "130",
-    "qty": "20",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0228-228",
-    "id": 432,
-    "price": "80",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Ocean_Frozen",
-    "icode": "G0127-127",
-    "id": 433,
-    "price": "55",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-20",
-    "des": "Ocean_Frozen",
-    "icode": "G0164-164",
-    "id": 434,
-    "price": "300",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-08",
-    "des": "Falcon",
-    "icode": "H0247-247",
-    "id": 435,
-    "price": "6",
-    "qty": "1",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-04-08",
-    "des": "Falcon_6.5",
-    "icode": "H0248-248",
-    "id": 436,
-    "price": "13",
-    "qty": "2",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-04-25",
-    "des": "Rukn_Al_Bahar",
-    "icode": "G0124-124",
-    "id": 437,
-    "price": "95",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-24",
-    "des": "Ocean_Frozen",
-    "icode": "G0119-119",
-    "id": 438,
-    "price": "80",
-    "qty": "10",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-24",
-    "des": "Ocean_Frozen_13.17",
-    "icode": "G0095-95",
-    "id": 439,
-    "price": "158",
-    "qty": "12",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-04-07",
-    "des": "Falcon_KDD",
-    "icode": "G0060-60",
-    "id": 440,
-    "price": "41",
-    "qty": "40",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-04-07",
-    "des": "Falcon_8.66",
-    "icode": "G0249-249",
-    "id": 441,
-    "price": "58",
-    "qty": "6.7",
-    "unit": "Kg"
-  },
-  {
-    "date": "2024-07-17",
-    "des": "Backet_Selim_15pp",
-    "icode": "G0250-250",
-    "id": 442,
-    "price": "180",
-    "qty": "12",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-07-29",
-    "des": "Al_Safa_29",
-    "icode": "G0157-157",
-    "id": 443,
-    "price": "2.4167",
-    "qty": "12",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-07-29",
-    "des": "Al_Safa_50",
-    "icode": "G0251-251",
-    "id": 444,
-    "price": "4.167",
-    "qty": "12",
-    "unit": "Pcs"
-  },
-  {
-    "date": "2024-07-29",
-    "des": "Al_Safa_78",
-    "icode": "G0252-252",
-    "id": 445,
-    "price": "6.5",
-    "qty": "12",
-    "unit": "Pcs"
-  }
+	  {
+        "ccode": "0",
+        "code": "G0000",
+        "id": "0",
+        "img": "img/pumpkin.png",
+        "name": "Hilsha 5/8"
+    }, {
+        "ccode": "0",
+        "code": "G0001",
+        "id": "1",
+        "img": "img/pumpkin.png",
+        "name": "Capa Dry 1kg"
+    }, {
+        "ccode": "0",
+        "code": "G0002",
+        "id": 2,
+        "img": "img/pumpkin.png",
+        "name": "Mumtaz Butter 20*200gm"
+    }, {
+        "ccode": "0",
+        "code": "G0003",
+        "id": 3,
+        "img": "img/pumpkin.png",
+        "name": "Uncle J's Sausage 24*340gm"
+    }, {
+        "ccode": "0",
+        "code": "G0004",
+        "id": 4,
+        "img": "img/pumpkin.png",
+        "name": "Ariel 48*110gm"
+    }, {
+        "ccode": "0",
+        "code": "G0005",
+        "id": 5,
+        "img": "img/pumpkin.png",
+        "name": "Ariel 260gm"
+    }, {
+        "ccode": "0",
+        "code": "G0006",
+        "id": 6,
+        "img": "img/pumpkin.png",
+        "name": "Al Hamra Milk 48*170gm"
+    }, {
+        "ccode": "1",
+        "code": "H0007",
+        "id": 7,
+        "img": "img/carrot.png",
+        "name": "Water Pump"
+    }, {
+        "ccode": "1",
+        "code": "H0008",
+        "id": 8,
+        "img": "img/carrot.png",
+        "name": "3in1 Alu Cutter"
+    }, {
+        "ccode": "1",
+        "code": "H009",
+        "id": 9,
+        "img": "img/carrot.png",
+        "name": "Multi Alu Cutter"
+    }, {
+        "ccode": "1",
+        "code": "H0010",
+        "id": 10,
+        "img": "img/carrot.png",
+        "name": "Mop"
+    }, {
+        "ccode": "1",
+        "code": "H0011",
+        "id": 11,
+        "img": "img/carrot.png",
+        "name": "Broom Soft"
+    }, {
+        "ccode": "1",
+        "code": "H0012",
+        "id": 12,
+        "img": "img/carrot.png",
+        "name": "Broom New"
+    }, {
+        "ccode": "1",
+        "code": "H0013",
+        "id": 13,
+        "img": "img/carrot.png",
+        "name": "Lighter Gun Liquid"
+    }, {
+        "ccode": "0",
+        "code": "G0014",
+        "id": 14,
+        "img": "img/pumpkin.png",
+        "name": "Oil Sindbad 500ml"
+    }, {
+        "ccode": "0",
+        "code": "G0015",
+        "id": 15,
+        "img": "img/pumpkin.png",
+        "name": "Oil Sindbad Tin 1.8LTR"
+    }, {
+        "ccode": "0",
+        "code": "G0016",
+        "id": 16,
+        "img": "img/pumpkin.png",
+        "name": "Luna 170gm Milk"
+    }, {
+        "ccode": "0",
+        "code": "G0017",
+        "id": 17,
+        "img": "img/pumpkin.png",
+        "name": "Rainbow 170gm Milk"
+    }, {
+        "ccode": "0",
+        "code": "G0018",
+        "id": 18,
+        "img": "img/pumpkin.png",
+        "name": "Sugar India 50kg"
+    }, {
+        "ccode": "0",
+        "code": "G0019",
+        "id": 19,
+        "img": "img/pumpkin.png",
+        "name": "Spice Black Pepper"
+    }, {
+        "ccode": "0",
+        "code": "G0020",
+        "id": 20,
+        "img": "img/pumpkin.png",
+        "name": "Spice Coriander Whole"
+    }, {
+        "ccode": "0",
+        "code": "G0021",
+        "id": 21,
+        "img": "img/pumpkin.png",
+        "name": "Semolina Suji"
+    }, {
+        "ccode": "2",
+        "code": "S0022",
+        "id": 22,
+        "img": "img/garlic.png",
+        "name": "Blade 7'O Clock"
+    }, {
+        "ccode": "0",
+        "code": "G0023",
+        "id": 23,
+        "img": "img/pumpkin.png",
+        "name": "Macroni Corni 20*400gm"
+    }, {
+        "ccode": "0",
+        "code": "G0024",
+        "id": 24,
+        "img": "img/pumpkin.png",
+        "name": "Macroni Penne 20*400gm"
+    }, {
+        "ccode": "0",
+        "code": "G0025",
+        "id": 25,
+        "img": "img/pumpkin.png",
+        "name": "Macroni Vermicell 20*400gm"
+    }, {
+        "ccode": "0",
+        "code": "G0026",
+        "id": 26,
+        "img": "img/pumpkin.png",
+        "name": "Macroni Spaghetti 20*400gm"
+    }, {
+        "ccode": "0",
+        "code": "G0027",
+        "id": 27,
+        "img": "img/pumpkin.png",
+        "name": "Macroni Pasta 20*400gm"
+    }, {
+        "ccode": "6",
+        "code": "PM0028",
+        "id": 28,
+        "img": "img/cucumber.png",
+        "name": "Oil Olive RS 175ml"
+    }, {
+        "ccode": "6",
+        "code": "PM0029",
+        "id": 29,
+        "img": "img/cucumber.png",
+        "name": "Oil Olive Queen 400ml"
+    }, {
+        "ccode": "6",
+        "code": "PM0030",
+        "id": 30,
+        "img": "img/cucumber.png",
+        "name": "Dentex Tooth Brush"
+    }, {
+        "ccode": "6",
+        "code": "PM0031",
+        "id": 31,
+        "img": "img/cucumber.png",
+        "name": "Oil Olive Queen 175ml"
+    }, {
+        "ccode": "0",
+        "code": "G0032",
+        "id": 32,
+        "img": "img/pumpkin.png",
+        "name": "Spice Shan Mutton Biriyani"
+    }, {
+        "ccode": "0",
+        "code": "G0033",
+        "id": 33,
+        "img": "img/pumpkin.png",
+        "name": "Red Kidney Beans Bag"
+    }, {
+        "ccode": "0",
+        "code": "G0034",
+        "id": 34,
+        "img": "img/pumpkin.png",
+        "name": "Chana Dal Bag"
+    }, {
+        "ccode": "0",
+        "code": "G0035",
+        "id": 35,
+        "img": "img/pumpkin.png",
+        "name": "Masoor Dal Bag"
+    }, {
+        "ccode": "0",
+        "code": "G0036",
+        "id": 36,
+        "img": "img/pumpkin.png",
+        "name": "Moong Dal Bag"
+    }, {
+        "ccode": "0",
+        "code": "G0037",
+        "id": 37,
+        "img": "img/pumpkin.png",
+        "name": "Rice Sona Masoori Pran"
+    }, {
+        "ccode": "0",
+        "code": "G0038",
+        "id": 38,
+        "img": "img/pumpkin.png",
+        "name": "Tide 110gm"
+    }, {
+        "ccode": "0",
+        "code": "G0039",
+        "id": 39,
+        "img": "img/pumpkin.png",
+        "name": "Tide 260gm"
+    }, {
+        "ccode": "0",
+        "code": "G0040",
+        "id": 40,
+        "img": "img/pumpkin.png",
+        "name": "Mara Red Kidney 400gm"
+    }, {
+        "ccode": "0",
+        "code": "G0041",
+        "id": 41,
+        "img": "img/pumpkin.png",
+        "name": "Misri Rice"
+    }, {
+        "ccode": "0",
+        "code": "G0042",
+        "id": 42,
+        "img": "img/pumpkin.png",
+        "name": "Mara Baked Beans 420gm"
+    }, {
+        "ccode": "0",
+        "code": "G0043",
+        "id": 43,
+        "img": "img/pumpkin.png",
+        "name": "Lui Tomato Past 198gm"
+    }, {
+        "ccode": "2",
+        "code": "S0044",
+        "id": 44,
+        "img": "img/garlic.png",
+        "name": "Marker Flamingo"
+    }, {
+        "ccode": "0",
+        "code": "G0045",
+        "id": 45,
+        "img": "img/pumpkin.png",
+        "name": "Bindass Basmati Rice 35kg"
+    }, {
+        "ccode": "0",
+        "code": "G0046",
+        "id": 46,
+        "img": "img/pumpkin.png",
+        "name": "California Garden Chick Peas 24*400gm"
+    }, {
+        "ccode": "0",
+        "code": "G0047",
+        "id": 47,
+        "img": "img/pumpkin.png",
+        "name": "Clorox 0.48ltr"
+    }, {
+        "ccode": "0",
+        "code": "G0048",
+        "id": 48,
+        "img": "img/pumpkin.png",
+        "name": "White Vinegar 473ml"
+    }, {
+        "ccode": "0",
+        "code": "G0049",
+        "id": 49,
+        "img": "img/pumpkin.png",
+        "name": "Spices Cardamom"
+    }, {
+        "ccode": "0",
+        "code": "G0050",
+        "id": 50,
+        "img": "img/pumpkin.png",
+        "name": "Spices Chilli Powder"
+    }, {
+        "ccode": "0",
+        "code": "G0051",
+        "id": 51,
+        "img": "img/pumpkin.png",
+        "name": "Jalal Basmati XXXL Rice 39kg"
+    }, {
+        "ccode": "0",
+        "code": "G0052",
+        "id": 52,
+        "img": "img/pumpkin.png",
+        "name": "Spices Cumin Whole"
+    }, {
+        "ccode": "0",
+        "code": "G0053",
+        "id": 53,
+        "img": "img/pumpkin.png",
+        "name": "Spices Black Pepper Powder"
+    }, {
+        "ccode": "0",
+        "code": "G0054",
+        "id": 54,
+        "img": "img/pumpkin.png",
+        "name": "GBR LGold Sonamasori Rice 18kg"
+    }, {
+        "ccode": "0",
+        "code": "G0055",
+        "id": 55,
+        "img": "img/pumpkin.png",
+        "name": "Spices Turmeric Powder"
+    }, {
+        "ccode": "0",
+        "code": "G0056",
+        "id": 56,
+        "img": "img/pumpkin.png",
+        "name": "Spices Garam Masala Powder"
+    }, {
+        "ccode": "0",
+        "code": "G0057",
+        "id": 57,
+        "img": "img/pumpkin.png",
+        "name": "Isabgol 50gm"
+    }, {
+        "ccode": "0",
+        "code": "G0058",
+        "id": 58,
+        "img": "img/pumpkin.png",
+        "name": "Isabgol 100gm"
+    }, {
+        "ccode": "0",
+        "code": "G0059",
+        "id": 59,
+        "img": "img/pumpkin.png",
+        "name": "Bindas Gold 35kg Basmati Rice"
+    }, {
+        "ccode": "0",
+        "code": "G0060",
+        "id": 60,
+        "img": "img/pumpkin.png",
+        "name": "Lacnor Tomato Paste 48*135gm"
+    }, {
+        "ccode": "0",
+        "code": "G0061",
+        "id": 61,
+        "img": "img/pumpkin.png",
+        "name": "Sarson Ka Saag 450gm"
+    }, {
+        "ccode": "0",
+        "code": "G0062",
+        "id": 62,
+        "img": "img/pumpkin.png",
+        "name": "Sarson Ka Saag 6*850gm"
+    }, {
+        "ccode": "0",
+        "code": "G0063",
+        "id": 63,
+        "img": "img/pumpkin.png",
+        "name": "Spices Cumin Powder"
+    }, {
+        "ccode": "0",
+        "code": "G0064",
+        "id": 64,
+        "img": "img/pumpkin.png",
+        "name": "Tissue 200ply"
+    }, {
+        "ccode": "0",
+        "code": "G0065",
+        "id": 65,
+        "img": "img/pumpkin.png",
+        "name": "American Light Meat Tuna"
+    }, {
+        "ccode": "0",
+        "code": "G0066",
+        "id": 66,
+        "img": "img/pumpkin.png",
+        "name": "Oil 18L Tin"
+    }, {
+        "ccode": "0",
+        "code": "G0067",
+        "id": 67,
+        "img": "img/pumpkin.png",
+        "name": "Oil Mustard 48*100ml"
+    }, {
+        "ccode": "0",
+        "code": "G0068",
+        "id": 68,
+        "img": "img/pumpkin.png",
+        "name": "Oil Mustard 24*200ml"
+    }, {
+        "ccode": "0",
+        "code": "G0069",
+        "id": 69,
+        "img": "img/pumpkin.png",
+        "name": "Oil Mustard 12*400ml"
+    }, {
+        "ccode": "6",
+        "code": "PM0070",
+        "id": 70,
+        "img": "img/cucumber.png",
+        "name": "Vaseline Jelly 50ml"
+    }, {
+        "ccode": "6",
+        "code": "PM0071",
+        "id": 71,
+        "img": "img/cucumber.png",
+        "name": "Vaseline Jelly 100ml"
+    }, {
+        "ccode": "1",
+        "code": "H0072",
+        "id": 72,
+        "img": "img/carrot.png",
+        "name": "Lux Liquid 400ml"
+    }, {
+        "ccode": "0",
+        "code": "G0073",
+        "id": 73,
+        "img": "img/pumpkin.png",
+        "name": "Pran Red Kidney 400g"
+    }, {
+        "ccode": "0",
+        "code": "G0074",
+        "id": 74,
+        "img": "img/pumpkin.png",
+        "name": "Spice Pran Pouch Coriander 180g"
+    }, {
+        "ccode": "0",
+        "code": "G0075",
+        "id": 75,
+        "img": "img/pumpkin.png",
+        "name": "Spice Pran Pouch Chilly 180g"
+    }, {
+        "ccode": "0",
+        "code": "G0076",
+        "id": 76,
+        "img": "img/pumpkin.png",
+        "name": "Pran Puffed Rice Muri 400g"
+    }, {
+        "ccode": "0",
+        "code": "G0077",
+        "id": 77,
+        "img": "img/pumpkin.png",
+        "name": "Pran Jhal Muri 40g"
+    }, {
+        "ccode": "0",
+        "code": "G0078",
+        "id": 78,
+        "img": "img/pumpkin.png",
+        "name": "Spice Pran Pouch Turmeric 180g"
+    }, {
+        "ccode": "0",
+        "code": "G0079",
+        "id": 79,
+        "img": "img/pumpkin.png",
+        "name": "A1 Kheer Mix Pistachio 160gm"
+    }, {
+        "ccode": "0",
+        "code": "G0080",
+        "id": 80,
+        "img": "img/fish.png",
+        "name": "Lotia Dry"
+    }, {
+        "ccode": "0",
+        "code": "G0081",
+        "id": 81,
+        "img": "img/pumpkin.png",
+        "name": "Pocket Tissue"
+    }, {
+        "ccode": "0",
+        "code": "G0082",
+        "id": 82,
+        "img": "img/pumpkin.png",
+        "name": "Spoonz Hot Sauce 88ml"
+    }, {
+        "ccode": "0",
+        "code": "G0083",
+        "id": 83,
+        "img": "img/pumpkin.png",
+        "name": "Egyptian Misri Rice Bag 25kg"
+    }, {
+        "ccode": "0",
+        "code": "G0084",
+        "id": 84,
+        "img": "img/pumpkin.png",
+        "name": "Tissue 150ply 6*5Box"
+    }, {
+        "ccode": "7",
+        "code": "T0085",
+        "id": 85,
+        "img": "img/potato.png",
+        "name": "Playing Card"
+    }, {
+        "ccode": "0",
+        "code": "G0086",
+        "id": 86,
+        "img": "img/pumpkin.png",
+        "name": "White Chick Peas Bag 15kg"
+    }, {
+        "ccode": "0",
+        "code": "G0087",
+        "id": 87,
+        "img": "img/pumpkin.png",
+        "name": "Semolina Bag 25kg"
+    }, {
+        "ccode": "0",
+        "code": "G0088",
+        "id": 88,
+        "img": "img/pumpkin.png",
+        "name": "Sugar Khalij 50kg"
+    }, {
+        "ccode": "6",
+        "code": "PM0089",
+        "id": 89,
+        "img": "img/cucumber.png",
+        "name": "Black Gold Henna 60gm 10*10pcs"
+    }, {
+        "ccode": "0",
+        "code": "G0090",
+        "id": 90,
+        "img": "img/pumpkin.png",
+        "name": "Tomato Past 100*70gm"
+    }, {
+        "ccode": "0",
+        "code": "G0091",
+        "id": 91,
+        "img": "img/fish.png",
+        "name": "Keski Viet 250gm*24 6kg"
+    }, {
+        "ccode": "0",
+        "code": "G0092",
+        "id": 92,
+        "img": "img/pumpkin.png",
+        "name": "Green Land Feta White Cheese 125gm*40"
+    }, {
+        "ccode": "0",
+        "code": "G0093",
+        "id": 93,
+        "img": "img/pumpkin.png",
+        "name": "Green Land Feta White Cheese 250gm*27"
+    }, {
+        "ccode": "0",
+        "code": "G0094",
+        "id": 94,
+        "img": "img/fish.png",
+        "name": "Rohu 1UP"
+    }, {
+        "ccode": "0",
+        "code": "G0095",
+        "id": 95,
+        "img": "img/fish.png",
+        "name": "Shrimps 100/120"
+    }, {
+        "ccode": "0",
+        "code": "G0096",
+        "id": 96,
+        "img": "img/pumpkin.png",
+        "name": "Mara Backed Beans 24*400gm"
+    }, {
+        "ccode": "0",
+        "code": "G0097",
+        "id": 97,
+        "img": "img/pumpkin.png",
+        "name": "Oman Chips 50*15gm"
+    }, {
+        "ccode": "0",
+        "code": "G0098",
+        "id": 98,
+        "img": "img/drinks.png",
+        "name": "Tiger Carbonated Drink 270ml*24"
+    }, {
+        "ccode": "0",
+        "code": "G0099",
+        "id": 99,
+        "img": "img/pumpkin.png",
+        "name": "Al Mudhish Long Life Milk 12*1Ltr"
+    }, {
+        "ccode": "0",
+        "code": "G0100",
+        "id": 100,
+        "img": "img/pumpkin.png",
+        "name": "Foul Beans 24*400gm"
+    }, {
+        "ccode": "0",
+        "code": "G0101",
+        "id": 101,
+        "img": "img/pumpkin.png",
+        "name": "Moong Whole 15kg Bag"
+    }, {
+        "ccode": "0",
+        "code": "G0102",
+        "id": 102,
+        "img": "img/pumpkin.png",
+        "name": "Green Peas Frozen 20*400gm"
+    }, {
+        "ccode": "0",
+        "code": "G0103",
+        "id": 103,
+        "img": "img/pumpkin.png",
+        "name": "Mix Vagetable Frozen 20*400gm"
+    }, {
+        "ccode": "0",
+        "code": "G0104",
+        "id": 104,
+        "img": "img/pumpkin.png",
+        "name": "Vermicelli Semiya Semai 48*150gm"
+    }, {
+        "ccode": "0",
+        "code": "G0105",
+        "id": 105,
+        "img": "img/pumpkin.png",
+        "name": "Masoor Whole 15kg Bag"
+    }, {
+        "ccode": "1",
+        "code": "H0106",
+        "id": 106,
+        "img": "img/carrot.png",
+        "name": "Match Box Big 1*10pcs"
+    }, {
+        "ccode": "1",
+        "code": "H0107",
+        "id": 107,
+        "img": "img/carrot.png",
+        "name": "Tea Glass 1*6pcs"
+    }, {
+        "ccode": "6",
+        "code": "PM0108",
+        "id": 108,
+        "img": "img/cucumber.png",
+        "name": "Sisso Hair Color Shampoo 10*20g"
+    }, {
+        "ccode": "6",
+        "code": "PM0109",
+        "id": 109,
+        "img": "img/cucumber.png",
+        "name": "Saving Machine Steel 6pcs"
+    }, {
+        "ccode": "2",
+        "code": "S0110",
+        "id": 110,
+        "img": "img/garlic.png",
+        "name": "AAA Battery 60pcs"
+    }, {
+        "ccode": "2",
+        "code": "S0111",
+        "id": 111,
+        "img": "img/garlic.png",
+        "name": "AA Battery 60pcs"
+    }, {
+        "ccode": "1",
+        "code": "H0112",
+        "id": 112,
+        "img": "img/carrot.png",
+        "name": "Lighter chakka 50pcs"
+    }, {
+        "ccode": "1",
+        "code": "H0113",
+        "id": 113,
+        "img": "img/carrot.png",
+        "name": "Lighter TakTak 20*50pcs"
+    }, {
+        "ccode": "0",
+        "code": "G0114",
+        "id": 114,
+        "img": "img/pumpkin.png",
+        "name": "Green Peas Can 24*400gm"
+    }, {
+        "ccode": "1",
+        "code": "H0115",
+        "id": 115,
+        "img": "img/carrot.png",
+        "name": "Super Glue 12pcs"
+    }, {
+        "ccode": "0",
+        "code": "G0116",
+        "id": 116,
+        "img": "img/pumpkin.png",
+        "name": "Chicken Cube 24*20gm"
+    }, {
+        "ccode": "0",
+        "code": "G0117",
+        "id": 117,
+        "img": "img/pumpkin.png",
+        "name": "Pusti Hot Chanachur 60gm"
+    }, {
+        "ccode": "0",
+        "code": "G0118",
+        "id": 118,
+        "img": "img/pumpkin.png",
+        "name": "Pusti BarBQ Chanachur 60gm"
+    }, {
+        "ccode": "0",
+        "code": "G0119",
+        "id": 119,
+        "img": "img/fish.png",
+        "name": "Tilapia 1up 10kg Mym"
+    }, {
+        "ccode": "0",
+        "code": "G0120",
+        "id": 120,
+        "img": "img/fish.png",
+        "name": "Puti 100/200 clean"
+    }, {
+        "ccode": "0",
+        "code": "G0121",
+        "id": 121,
+        "img": "img/chicken.png",
+        "name": "Chicken Gizzard 20*450gm"
+    }, {
+        "ccode": "0",
+        "code": "G0122",
+        "id": 122,
+        "img": "img/chicken.png",
+        "name": "Chicken Liver 20*450gm"
+    }, {
+        "ccode": "0",
+        "code": "G0123",
+        "id": 123,
+        "img": "img/fish.png",
+        "name": "Tilapia 100/200 10*800gm"
+    }, {
+        "ccode": "0",
+        "code": "G0124",
+        "id": 124,
+        "img": "img/fish.png",
+        "name": "Puti 1UP 10Kg"
+    }, {
+        "ccode": "0",
+        "code": "G0125",
+        "id": 125,
+        "img": "img/fish.png",
+        "name": "Kasky Tray 24*250gm"
+    }, {
+        "ccode": "0",
+        "code": "G0126",
+        "id": 126,
+        "img": "img/fish.png",
+        "name": "E Moila 25*250gm 6.25kg"
+    }, {
+        "ccode": "0",
+        "code": "G0127",
+        "id": 127,
+        "img": "img/pangash.png",
+        "name": "Pangash 1UP 11Kg Mym"
+    }, {
+        "ccode": "0",
+        "code": "G0128",
+        "id": 128,
+        "img": "img/fish.png",
+        "name": "Hilsa 5/8 10kg Myn"
+    }, {
+        "ccode": "0",
+        "code": "G0129",
+        "id": 129,
+        "img": "img/fish.png",
+        "name": "Rohu 2Up 20kg"
+    }, {
+        "ccode": "0",
+        "code": "G0130",
+        "id": 130,
+        "img": "img/fish.png",
+        "name": "Rohu 3Up 22kg"
+    }, {
+        "ccode": "0",
+        "code": "G0131",
+        "id": 131,
+        "img": "img/fish.png",
+        "name": "Katla 5Up 22kg"
+    }, {
+        "ccode": "6",
+        "code": "PM0132",
+        "id": 132,
+        "img": "img/cosmetics.png",
+        "name": "H&S Shampoo 200ml"
+    }, {
+        "ccode": "6",
+        "code": "PM0133",
+        "id": 133,
+        "img": "img/cosmetics.png",
+        "name": "H&S Shampoo 400ml"
+    }, {
+        "ccode": "6",
+        "code": "PM0134",
+        "id": 134,
+        "img": "img/cosmetics.png",
+        "name": "Clear Shampoo 200ml"
+    }, {
+        "ccode": "6",
+        "code": "PM0135",
+        "id": 135,
+        "img": "img/cosmetics.png",
+        "name": "Clear Shampoo 400ml"
+    }, {
+        "ccode": "4",
+        "code": "GD0136",
+        "id": 136,
+        "img": "img/gift.png",
+        "name": "Finger Counter 12pcs"
+    }, {
+        "ccode": "0",
+        "code": "G0137",
+        "id": 137,
+        "img": "img/pumpkin.png",
+        "name": "Bombay Supari 12pcs*48packs"
+    }, {
+        "ccode": "6",
+        "code": "PM0138",
+        "id": 138,
+        "img": "img/cosmetics.png",
+        "name": "Pentene Shampoo 200ml"
+    }, {
+        "ccode": "6",
+        "code": "PM0139",
+        "id": 139,
+        "img": "img/cosmetics.png",
+        "name": "Pentene Shampoo 400ml"
+    }, {
+        "ccode": "6",
+        "code": "PM0140",
+        "id": 140,
+        "img": "img/cosmetics.png",
+        "name": "Dove Shampoo 200ml"
+    }, {
+        "ccode": "6",
+        "code": "PM0141",
+        "id": 141,
+        "img": "img/cosmetics.png",
+        "name": "Dove Shampoo 400ml"
+    }, {
+        "ccode": "6",
+        "code": "PM0142",
+        "id": 142,
+        "img": "img/cosmetics.png",
+        "name": "Colgate Toothpaste 36g"
+    }, {
+        "ccode": "6",
+        "code": "PM0143",
+        "id": 143,
+        "img": "img/cosmetics.png",
+        "name": "Colgate Toothpaste 50ml/73.5g"
+    }, {
+        "ccode": "6",
+        "code": "PM0144",
+        "id": 144,
+        "img": "img/cosmetics.png",
+        "name": "Closeup Toothpaste 50ml"
+    }, {
+        "ccode": "6",
+        "code": "PM0145",
+        "id": 145,
+        "img": "img/cosmetics.png",
+        "name": "Closeup Green Toothpaste 80g"
+    }, {
+        "ccode": "6",
+        "code": "PM0146",
+        "id": 146,
+        "img": "img/cosmetics.png",
+        "name": "Closeup Toothpaste 95ml"
+    }, {
+        "ccode": "6",
+        "code": "PM0147",
+        "id": 147,
+        "img": "img/cosmetics.png",
+        "name": "Closeup Toothpaste 145ml"
+    }, {
+        "ccode": "6",
+        "code": "PM0148",
+        "id": 148,
+        "img": "img/cosmetics.png",
+        "name": "Signal Toothpaste 150gm/100ml"
+    }, {
+        "ccode": "6",
+        "code": "PM0149",
+        "id": 149,
+        "img": "img/cosmetics.png",
+        "name": "Sensodyne Toothpaste 100ml"
+    }, {
+        "ccode": "0",
+        "code": "G0150",
+        "id": 150,
+        "img": "img/meat.png",
+        "name": "Beef"
+    }, {
+        "ccode": "0",
+        "code": "G0151",
+        "id": 151,
+        "img": "img/meat.png",
+        "name": "Mutton"
+    }, {
+        "ccode": "0",
+        "code": "G0152",
+        "id": 152,
+        "img": "img/meat.png",
+        "name": "Beef Veal Liver "
+    }, {
+        "ccode": "0",
+        "code": "G0153",
+        "id": 153,
+        "img": "img/honey.png",
+        "name": "Natural Honey 500gm"
+    }, {
+        "ccode": "0",
+        "code": "G0154",
+        "id": 154,
+        "img": "img/honey.png",
+        "name": "Natural Honey 250gm"
+    }, {
+        "ccode": "0",
+        "code": "G0155",
+        "id": 155,
+        "img": "img/fish.png",
+        "name": "Rohu 1.5Up 21kg"
+    }, {
+        "ccode": "0",
+        "code": "G0156",
+        "id": 156,
+        "img": "img/pumpkin.png",
+        "name": "Lipton Black Tea Powder 200gm"
+    }, {
+        "ccode": "0",
+        "code": "G0157",
+        "id": 157,
+        "img": "img/medicine.png",
+        "name": "Suduri Syrup"
+    }, {
+        "ccode": "0",
+        "code": "G0158",
+        "id": 158,
+        "img": "img/pumpkin.png",
+        "name": "Al Mudish Tea Milk 170gm"
+    }, {
+        "ccode": "0",
+        "code": "G0159",
+        "id": 159,
+        "img": "img/pumpkin.png",
+        "name": "Al Mudish Tea Milk 410gm"
+    }, {
+        "ccode": "2",
+        "code": "S0160",
+        "id": 160,
+        "img": "img/garlic.png",
+        "name": "Masking Tape Paper 2Inch 24Pcs"
+    }, {
+        "ccode": "0",
+        "code": "G0161",
+        "id": 161,
+        "img": "img/fish.png",
+        "name": "Diamond Sardine Yellow 48*180gm"
+    }, {
+        "ccode": "0",
+        "code": "G0162",
+        "id": 162,
+        "img": "img/pumpkin.png",
+        "name": "Tomato Ketchup 325gm"
+    }, {
+        "ccode": "0",
+        "code": "G0163",
+        "id": 163,
+        "img": "img/fish.png",
+        "name": "Hilsa 3/5 10kg Myn"
+    }, {
+        "ccode": "0",
+        "code": "G0164",
+        "id": 164,
+        "img": "img/fish.png",
+        "name": "Hilsa 8/10 10kg Myn"
+    }, {
+        "ccode": "0",
+        "code": "G0165",
+        "id": 165,
+        "img": "img/fish.png",
+        "name": "Hilsa 1Up 10kg Myn"
+    }, {
+        "ccode": "0",
+        "code": "G0166",
+        "id": 166,
+        "img": "img/pangash.png",
+        "name": "Pangash 1.5UP"
+    }, {
+        "ccode": "0",
+        "code": "G0167",
+        "id": 167,
+        "img": "img/fish.png",
+        "name": "Mirgal 15/20"
+    }, {
+        "ccode": "0",
+        "code": "G0168",
+        "id": 168,
+        "img": "img/pumpkin.png",
+        "name": "Basen Powder 15Kg Bag"
+    }, {
+        "ccode": "0",
+        "code": "G0169",
+        "id": 169,
+        "img": "img/fish.png",
+        "name": "Sury Dry Pak"
+    }, {
+        "ccode": "0",
+        "code": "G0170",
+        "id": 170,
+        "img": "img/pumpkin.png",
+        "name": "Bindass Basmati Rice 5Kg"
+    }, {
+        "ccode": "0",
+        "code": "G0171",
+        "id": 171,
+        "img": "img/pumpkin.png",
+        "name": "Bindass Basmati Rice 10Kg"
+    }, {
+        "ccode": "0",
+        "code": "G0172",
+        "id": 172,
+        "img": "img/fish.png",
+        "name": "Kaika"
+    }, {
+        "ccode": "0",
+        "code": "G0173",
+        "id": 173,
+        "img": "img/pumpkin.png",
+        "name": "Spice Coriander Powder"
+    }, {
+        "ccode": "0",
+        "code": "G0174",
+        "id": 174,
+        "img": "img/pumpkin.png",
+        "name": "Plain Fava Beans Can 400gm"
+    }, {
+        "ccode": "0",
+        "code": "G0175",
+        "id": 175,
+        "img": "img/fish.png",
+        "name": "Mix Fish 24*250gm"
+    }, {
+        "ccode": "0",
+        "code": "G0176",
+        "id": 176,
+        "img": "img/fish.png",
+        "name": "Carfu 1UP"
+    }, {
+        "ccode": "0",
+        "code": "G0177",
+        "id": 177,
+        "img": "img/fish.png",
+        "name": "Baila L"
+    }, {
+        "ccode": "0",
+        "code": "G0178",
+        "id": 178,
+        "img": "img/fish.png",
+        "name": "Bata L"
+    }, {
+        "ccode": "0",
+        "code": "G0179",
+        "id": 179,
+        "img": "img/fish.png",
+        "name": "Pabda 7inch"
+    }, {
+        "ccode": "0",
+        "code": "G0180",
+        "id": 180,
+        "img": "img/fish.png",
+        "name": "Star Baim 25pcs"
+    }, {
+        "ccode": "0",
+        "code": "G0181",
+        "id": 181,
+        "img": "img/fish.png",
+        "name": "Shrimps 80/100"
+    }, {
+        "ccode": "0",
+        "code": "G0182",
+        "id": 182,
+        "img": "img/parcel.png",
+        "name": "Smoky Bag Parcel Kis 20Bags"
+    }, {
+        "ccode": "0",
+        "code": "G0183",
+        "id": 183,
+        "img": "img/parcel.png",
+        "name": "Smoky Bag Parcel Kis Clear 20Bags"
+    }, {
+        "ccode": "0",
+        "code": "G0184",
+        "id": 184,
+        "img": "img/drinks.png",
+        "name": "Star Fruit Drink 6*1L"
+    }, {
+        "ccode": "0",
+        "code": "G0185",
+        "id": 185,
+        "img": "img/drinks.png",
+        "name": "Rani Fruit Juice 24*240ml"
+    }, {
+        "ccode": "0",
+        "code": "G0186",
+        "id": 186,
+        "img": "img/parcel.png",
+        "name": "Sofra Table Sheet 12*500gm"
+    }, {
+        "ccode": "0",
+        "code": "G0187",
+        "id": 187,
+        "img": "img/parcel.png",
+        "name": "Sofra Table Sheet 20*250gm"
+    }, {
+        "ccode": "0",
+        "code": "G0188",
+        "id": 188,
+        "img": "img/parcel.png",
+        "name": "Sofra Table Sheet 10*1kg"
+    }, {
+        "ccode": "0",
+        "code": "G0189",
+        "id": 189,
+        "img": "img/parcel.png",
+        "name": "Disposable Drinking Cups 20*50pcs"
+    }, {
+        "ccode": "1",
+        "code": "H0190",
+        "id": 190,
+        "img": "img/carrot.png",
+        "name": "Flying Insect Trap"
+    }, {
+        "ccode": "0",
+        "code": "G0191",
+        "id": 191,
+        "img": "img/pumpkin.png",
+        "name": "Cycle Agarbatti 12pcs"
+    }, {
+        "ccode": "0",
+        "code": "G0192",
+        "id": 192,
+        "img": "img/drinks.png",
+        "name": "Boom Boom Energy Drink 24*250ml"
+    }, {
+        "ccode": "0",
+        "code": "G0193",
+        "id": 193,
+        "img": "img/vagetable.png",
+        "name": "Garlic Bag"
+    }, {
+        "ccode": "0",
+        "code": "G0194",
+        "id": 194,
+        "img": "img/vagetable.png",
+        "name": "Ginger"
+    }, {
+        "ccode": "0",
+        "code": "G0195",
+        "id": 195,
+        "img": "img/vagetable.png",
+        "name": "Lemon Egypt"
+    }, {
+        "ccode": "0",
+        "code": "G0196",
+        "id": 196,
+        "img": "img/vagetable.png",
+        "name": "Carrot China"
+    }, {
+        "ccode": "0",
+        "code": "G0197",
+        "id": 197,
+        "img": "img/fruit.png",
+        "name": "Apple"
+    }, {
+        "ccode": "0",
+        "code": "G0198",
+        "id": 198,
+        "img": "img/chicken.png",
+        "name": "Egg 12*30pcs"
+    }, {
+        "ccode": "0",
+        "code": "G0199",
+        "id": 199,
+        "img": "img/nut.png",
+        "name": "Dates 250gm"
+    }, {
+        "ccode": "0",
+        "code": "G0200",
+        "id": 200,
+        "img": "img/nut.png",
+        "name": "Dates 500gm"
+    }, {
+        "ccode": "0",
+        "code": "G0201",
+        "id": 201,
+        "img": "img/nut.png",
+        "name": "Dates 10kg"
+    }, {
+        "ccode": "0",
+        "code": "G0202",
+        "id": 202,
+        "img": "img/fruit.png",
+        "name": "Orange 72 Egypt"
+    }, {
+        "ccode": "6",
+        "code": "PM0203",
+        "id": 203,
+        "img": "img/cosmetics.png",
+        "name": "Dove Soap 48*135gm"
+    }, {
+        "ccode": "6",
+        "code": "PM0204",
+        "id": 204,
+        "img": "img/cosmetics.png",
+        "name": "Lux Soap 48*175gm"
+    }, {
+        "ccode": "6",
+        "code": "PM0205",
+        "id": 205,
+        "img": "img/cosmetics.png",
+        "name": "Lux Soap 11*12*75gm"
+    }, {
+        "ccode": "6",
+        "code": "PM0206",
+        "id": 206,
+        "img": "img/cosmetics.png",
+        "name": "Dettol Soap 48*165gm"
+    }, {
+        "ccode": "3",
+        "code": "K0207",
+        "id": 207,
+        "img": "img/kitchen.png",
+        "name": "Dish Wash 24*500gm"
+    }, {
+        "ccode": "3",
+        "code": "K0208",
+        "id": 208,
+        "img": "img/kitchen.png",
+        "name": "Dish Wash 12*1L"
+    }, {
+        "ccode": "0",
+        "code": "G0209",
+        "id": 209,
+        "img": "img/fish.png",
+        "name": "Baila Whole 10*800gm 8kg"
+    }, {
+        "ccode": "0",
+        "code": "G0210",
+        "id": 210,
+        "img": "img/pumpkin.png",
+        "name": "Been Seed Sim Bici"
+    }, {
+        "ccode": "0",
+        "code": "G0211",
+        "id": 211,
+        "img": "img/drinks.png",
+        "name": "Tang Powder 24*375gm"
+    }, {
+        "ccode": "1",
+        "code": "H0212",
+        "id": 212,
+        "img": "img/carrot.png",
+        "name": "Cloth Wash Brush 6pcs"
+    }, {
+        "ccode": "1",
+        "code": "H0213",
+        "id": 213,
+        "img": "img/carrot.png",
+        "name": "Binder Clips 12pcs*2''"
+    }, {
+        "ccode": "1",
+        "code": "H0214",
+        "id": 214,
+        "img": "img/carrot.png",
+        "name": "Binder Clips 12pcs*1.5/8''(41mm)width"
+    }, {
+        "ccode": "1",
+        "code": "H0215",
+        "id": 215,
+        "img": "img/carrot.png",
+        "name": "Fenix Cokro Lighter 20Box*50pcs"
+    }, {
+        "ccode": "6",
+        "code": "PM0216",
+        "id": 216,
+        "img": "img/cosmetics.png",
+        "name": "Fair & Handsome Cream 100gm"
+    }, {
+        "ccode": "6",
+        "code": "PM0217",
+        "id": 217,
+        "img": "img/cosmetics.png",
+        "name": "Fair & Handsome Cream 50gm"
+    }, {
+        "ccode": "6",
+        "code": "PM0218",
+        "id": 218,
+        "img": "img/cosmetics.png",
+        "name": "Fair & Handsome Cream 30gm"
+    }, {
+        "ccode": "6",
+        "code": "PM0219",
+        "id": 219,
+        "img": "img/cosmetics.png",
+        "name": "Gillette Presto 16Pata*48pcs"
+    }, {
+        "ccode": "6",
+        "code": "PM0220",
+        "id": 220,
+        "img": "img/cosmetics.png",
+        "name": "Parachute Flora Oil 200ml"
+    }, {
+        "ccode": "6",
+        "code": "PM0221",
+        "id": 221,
+        "img": "img/cosmetics.png",
+        "name": "Bath Sponge Dolphin 12pcs"
+    }, {
+        "ccode": "6",
+        "code": "PM0222",
+        "id": 222,
+        "img": "img/cosmetics.png",
+        "name": "Hair Gel La'Fresh 300ml"
+    }, {
+        "ccode": "6",
+        "code": "PM0223",
+        "id": 223,
+        "img": "img/cosmetics.png",
+        "name": "Vicks VapoRub 12pcs*10ml"
+    }, {
+        "ccode": "6",
+        "code": "PM0224",
+        "id": 224,
+        "img": "img/cosmetics.png",
+        "name": "Lip Balm Natural Plant 18*4gm"
+    }, {
+        "ccode": "0",
+        "code": "G0225",
+        "id": 225,
+        "img": "img/fish.png",
+        "name": "Katla 3Up 22kg"
+    }, {
+        "ccode": "0",
+        "code": "G0226",
+        "id": 226,
+        "img": "img/fish.png",
+        "name": "Rohu Egg 24*250gm"
+    }, {
+        "ccode": "0",
+        "code": "G0227",
+        "id": 227,
+        "img": "img/pumpkin.png",
+        "name": "Batook Chewing Gum 1*50"
+    }, {
+        "ccode": "0",
+        "code": "G0228",
+        "id": 228,
+        "img": "img/fish.png",
+        "name": "Mirgal 1Up 13kg"
+    }, {
+        "ccode": "0",
+        "code": "G0229",
+        "id": 229,
+        "img": "img/fish.png",
+        "name": "Balachaung Borta 250gm"
+    }, {
+        "ccode": "0",
+        "code": "G0230",
+        "id": 230,
+        "img": "img/fish.png",
+        "name": "Hilsa 4/5 10Kg"
+    }, {
+        "ccode": "0",
+        "code": "G0231",
+        "id": 231,
+        "img": "img/fish.png",
+        "name": "Long Baim -L 13'' 10*1kg"
+    }, {
+        "ccode": "0",
+        "code": "G0232",
+        "id": 232,
+        "img": "img/pumpkin.png",
+        "name": "Tamarind 50*300gm"
+    }, {
+        "ccode": "0",
+        "code": "G0233",
+        "id": 233,
+        "img": "img/fish.png",
+        "name": "Lotya IQF"
+    }, {
+        "ccode": "0",
+        "code": "G0234",
+        "id": 234,
+        "img": "img/pumpkin.png",
+        "name": "Black Chana 15kg"
+    }, {
+        "ccode": "0",
+        "code": "G0235",
+        "id": 235,
+        "img": "img/pumpkin.png",
+        "name": "Urad Dal 15kg"
+    }, {
+        "ccode": "0",
+        "code": "G0236",
+        "id": 236,
+        "img": "img/pumpkin.png",
+        "name": "Bindas Gold Basmati Rice 35Kg"
+    }, {
+        "ccode": "0",
+        "code": "G0237",
+        "id": 237,
+        "img": "img/pumpkin.png",
+        "name": "Bindas Gold Basmati Rice 10Kg"
+    }, {
+        "ccode": "0",
+        "code": "G0238",
+        "id": 238,
+        "img": "img/pumpkin.png",
+        "name": "Bindas Gold Basmati Rice 5Kg"
+    }, {
+        "ccode": "0",
+        "code": "G0239",
+        "id": 239,
+        "img": "img/telapia.png",
+        "name": "Telapia 1Up"
+    }, {
+        "ccode": "0",
+        "code": "G0240",
+        "id": 240,
+        "img": "img/telapia.png",
+        "name": "Telapia 8/10 10kg"
+    }, {
+        "ccode": "0",
+        "code": "G0241",
+        "id": 241,
+        "img": "img/fish.png",
+        "name": "Koi IQF 6/8 800gm"
+    }, {
+        "ccode": "0",
+        "code": "G0242",
+        "id": 242,
+        "img": "img/fish.png",
+        "name": "Saraar Red Clean 800gm 8kg"
+    }, {
+        "ccode": "0",
+        "code": "G0243",
+        "id": 243,
+        "img": "img/pumpkin.png",
+        "name": "Aseel Veg. Ghee 24*500gm"
+    }, {
+        "ccode": "0",
+        "code": "G0244",
+        "id": 244,
+        "img": "img/fish.png",
+        "name": "Shrimps 70/80"
+    }, {
+        "ccode": "0",
+        "code": "G0245",
+        "id": 245,
+        "img": "img/pumpkin.png",
+        "name": "Egyptian Misri Rice 6*2kg"
+    }, {
+        "ccode": "0",
+        "code": "G0246",
+        "id": 246,
+        "img": "img/fish.png",
+        "name": "Bata IQF"
+    }, {
+        "ccode": "1",
+        "code": "H0247",
+        "id": 247,
+        "img": "img/garlic.png",
+        "name": "Floor Cleaner Gallon 4*5Ltr"
+    }, {
+        "ccode": "1",
+        "code": "H0248",
+        "id": 248,
+        "img": "img/garlic.png",
+        "name": "Dettol Mac Pine Cleaner 6*2*900ml"
+    }, {
+        "ccode": "0",
+        "code": "G0249",
+        "id": 249,
+        "img": "img/pumpkin.png",
+        "name": "Dc Coconut Powder 6.7Kg Bag"
+    }, {
+        "ccode": "0",
+        "code": "G0250",
+        "id": 250,
+        "img": "img/chicken.png",
+        "name": "Fresh Chicken Hard"
+    }, {
+        "ccode": "0",
+        "code": "G0251",
+        "id": 251,
+        "img": "img/medicine.png",
+        "name": "Nycil Heat Powder 150gm"
+    }, {
+        "ccode": "6",
+        "code": "PM0252",
+        "id": 252,
+        "img": "img/cosmetics.png",
+        "name": "Vatika Oil 200ml"
+    }, {
+        "ccode": "6",
+        "code": "PM0253",
+        "id": 253,
+        "img": "img/cosmetics.png",
+        "name": "Sampoorna Oil 150ml"
+    }, {
+        "ccode": "6",
+        "code": "PM0254",
+        "id": 254,
+        "img": "img/cosmetics.png",
+        "name": "Colgate Brush 12pcs"
+    }, {
+        "ccode": "6",
+        "code": "PM0255",
+        "id": 255,
+        "img": "img/cosmetics.png",
+        "name": "Sabaya Perfume 6*6ml"
+    }, {
+        "ccode": "6",
+        "code": "PM0256",
+        "id": 256,
+        "img": "img/cosmetics.png",
+        "name": "Colgate Toothpaste 12*36g"
+    }, {
+        "ccode": "6",
+        "code": "PM0257",
+        "id": 257,
+        "img": "img/cosmetics.png",
+        "name": "Bajaj Almond Oil 100ml"
+    }, {
+        "ccode": "2",
+        "code": "S0258",
+        "id": 258,
+        "img": "img/stationary.png",
+        "name": "Small Book 12pcs"
+    }, {
+        "ccode": "0",
+        "code": "G0259",
+        "id": 259,
+        "img": "img/pumpkin.png",
+        "name": "Triangle Cheese 36*120gm*8portions"
+    }, {
+        "ccode": "0",
+        "code": "G0260",
+        "id": 260,
+        "img": "img/pumpkin.png",
+        "name": "Himani Navaratna Cool Hair oil 100ml"
+    }, {
+        "ccode": "6",
+        "code": "PM0261",
+        "id": 261,
+        "img": "img/cosmetics.png",
+        "name": "Vaseline Hair Oil 100ml"
+    }, {
+        "ccode": "0",
+        "code": "G0262",
+        "id": 262,
+        "img": "img/drinks.png",
+        "name": "Sting Drink 12*500ml"
+    }, {
+        "ccode": "0",
+        "code": "G0263",
+        "id": 263,
+        "img": "img/pumpkin.png",
+        "name": "Rooh Afza Hamdard 12*800ml"
+    }, {
+        "ccode": "0",
+        "code": "G0264",
+        "id": 264,
+        "img": "img/pumpkin.png",
+        "name": "Oil Mustard 48*80ml"
+    }, {
+        "ccode": "0",
+        "code": "G0265",
+        "id": 265,
+        "img": "img/pumpkin.png",
+        "name": "Oil Tin 10Ltr"
+    }, {
+        "ccode": "0",
+        "code": "G0266",
+        "id": 266,
+        "img": "img/honey.png",
+        "name": "Natural Honey 125gm"
+    }, {
+        "ccode": "0",
+        "code": "G0267",
+        "id": 267,
+        "img": "img/pumpkin.png",
+        "name": "Ajinomoto China Tasty Salt 40*454gm"
+    }, {
+        "ccode": "0",
+        "code": "G0268",
+        "id": 268,
+        "img": "img/pumpkin.png",
+        "name": "White Chana 7mm 15kg"
+    }, {
+        "ccode": "0",
+        "code": "G0269",
+        "id": 269,
+        "img": "img/drinks.png",
+        "name": "Packet Juice 27*200ml"
+    }, {
+        "ccode": "0",
+        "code": "G0270",
+        "id": 270,
+        "img": "img/pumpkin.png",
+        "name": "Oman Chips Big 6*97gm"
+    }, {
+        "ccode": "0",
+        "code": "G0271",
+        "id": 271,
+        "img": "img/pumpkin.png",
+        "name": "Oman Chips Salad Big 6*75gm"
+    }, {
+        "ccode": "0",
+        "code": "G0272",
+        "id": 272,
+        "img": "img/pumpkin.png",
+        "name": "Oman Chips Salad 50*15gm"
+    }, {
+        "ccode": "0",
+        "code": "G0273",
+        "id": 273,
+        "img": "img/pumpkin.png",
+        "name": "White Chana 9mm 15kg"
+    }, {
+        "ccode": "0",
+        "code": "G0274",
+        "id": 274,
+        "img": "img/pumpkin.png",
+        "name": "Dal Vaja 200*15gm"
+    }, {
+        "ccode": "0",
+        "code": "G0275",
+        "id": 275,
+        "img": "img/pumpkin.png",
+        "name": "Fried Peas Vaja 200*20gm"
+    }, {
+        "ccode": "0",
+        "code": "G0276",
+        "id": 276,
+        "img": "img/pumpkin.png",
+        "name": "Cup Noodles 6*60gm"
+    }, {
+        "ccode": "0",
+        "code": "G0277",
+        "id": 277,
+        "img": "img/pumpkin.png",
+        "name": "Pran Tuna SkipJack 48*185gm"
+    }, {
+        "ccode": "0",
+        "code": "G0278",
+        "id": 278,
+        "img": "img/medicine.png",
+        "name": "Katmal Powder"
+    }, {
+        "ccode": "6",
+        "code": "PM0279",
+        "id": 279,
+        "img": "img/cosmetics.png",
+        "name": "Pamir Deluxe 48*170gm"
+    }, {
+        "ccode": "0",
+        "code": "G0280",
+        "id": 280,
+        "img": "img/medicine.png",
+        "name": "Eno 60*5gm"
+    }, {
+        "ccode": "0",
+        "code": "G0281",
+        "id": 281,
+        "img": "img/electrics.png",
+        "name": "CFL Energy Round Lamp 10pcs"
+    }, {
+        "ccode": "0",
+        "code": "G0282",
+        "id": 282,
+        "img": "img/medicine.png",
+        "name": "Vicks Inhaler 12pcs"
+    }, {
+        "ccode": "6",
+        "code": "PM0283",
+        "id": 283,
+        "img": "img/cosmetics.png",
+        "name": "Vaseline Hair Oil 300ml"
+    }, {
+        "ccode": "0",
+        "code": "G0284",
+        "id": 284,
+        "img": "img/electronics.png",
+        "name": "AAA small Cell 2*30pcs"
+    }, {
+        "ccode": "0",
+        "code": "G0285",
+        "id": 285,
+        "img": "img/electronics.png",
+        "name": "AA Cell 60pcs"
+    }, {
+        "ccode": "6",
+        "code": "PM0286",
+        "id": 286,
+        "img": "img/cosmetics.png",
+        "name": "Pocket Mirror"
+    }, {
+        "ccode": "6",
+        "code": "PM0287",
+        "id": 287,
+        "img": "img/cosmetics.png",
+        "name": "Lux Soap 96*100gm"
+    }, {
+        "ccode": "6",
+        "code": "PM0288",
+        "id": 288,
+        "img": "img/cosmetics.png",
+        "name": "Sunsilk Shampoo 180ml"
+    }, {
+        "ccode": "0",
+        "code": "G0289",
+        "id": 289,
+        "img": "img/fish.png",
+        "name": "D Puti Blk"
+    }, {
+        "ccode": "0",
+        "code": "G0290",
+        "id": 290,
+        "img": "img/fish.png",
+        "name": "Chapila 24*250gm"
+    }, {
+        "ccode": "0",
+        "code": "G0291",
+        "id": 291,
+        "img": "img/fish.png",
+        "name": "Shoal 1up 10kg"
+    }, {
+        "ccode": "1",
+        "code": "H0292",
+        "id": 292,
+        "img": "img/carrot.png",
+        "name": "Lux Liquid 725ml"
+    }, {
+        "ccode": "0",
+        "code": "G0293",
+        "id": 293,
+        "img": "img/pumpkin.png",
+        "name": "Al Alali Tuna Skip Jack 48*170gm"
+    }, {
+        "ccode": "0",
+        "code": "G0294",
+        "id": 294,
+        "img": "img/pumpkin.png",
+        "name": "Al Arousa Tea 24*40gm"
+    }, {
+        "ccode": "0",
+        "code": "G0295",
+        "id": 295,
+        "img": "img/pumpkin.png",
+        "name": "Al Arousa Tea 10*100gm"
+    }, {
+        "ccode": "0",
+        "code": "G0296",
+        "id": 296,
+        "img": "img/pumpkin.png",
+        "name": "Al Arousa Tea 4*250gm"
+    }, {
+        "ccode": "0",
+        "code": "G0297",
+        "id": 297,
+        "img": "img/pumpkin.png",
+        "name": "Spices Qasuri Methi Leaves 72*50gm"
+    }, {
+        "ccode": "0",
+        "code": "G0298",
+        "id": 298,
+        "img": "img/pumpkin.png",
+        "name": "Spices Methi Fenugreek Seed 1kg"
+    }, {
+        "ccode": "0",
+        "code": "G0299",
+        "id": 299,
+        "img": "img/pumpkin.png",
+        "name": "RKG Pure Ghee 200*50gm"
+    }, {
+        "ccode": "0",
+        "code": "G0300",
+        "id": 300,
+        "img": "img/pumpkin.png",
+        "name": "RKG Pure Ghee 100*100ml"
+    }, {
+        "ccode": "0",
+        "code": "G0301",
+        "id": 301,
+        "img": "img/telapia.png",
+        "name": "Telapia 100/200 10kg"
+    }, {
+        "ccode": "0",
+        "code": "G0302",
+        "id": 302,
+        "img": "img/koral.png",
+        "name": "Koral 1Up"
+    }, {
+        "ccode": "0",
+        "code": "G0303",
+        "id": 303,
+        "img": "img/pumpkin.png",
+        "name": "Chicken Leg Quarter 15kg"
+    }, {
+        "ccode": "0",
+        "code": "G0304",
+        "id": 304,
+        "img": "img/fish.png",
+        "name": "Tengra 7inch"
+    }, {
+        "ccode": "0",
+        "code": "G0305",
+        "id": 305,
+        "img": "img/fish.png",
+        "name": "Mackerel"
+    }, {
+        "ccode": "0",
+        "code": "G0306",
+        "id": 306,
+        "img": "img/pumpkin.png",
+        "name": "GBR LGold Sonamasori Rice 8*5kg"
+    }, {
+        "ccode": "0",
+        "code": "G0307",
+        "id": 307,
+        "img": "img/pumpkin.png",
+        "name": "Chicken Drum Stick small 12*900gm"
+    }, {
+        "ccode": "0",
+        "code": "G0308",
+        "id": 308,
+        "img": "img/pumpkin.png",
+        "name": "Chicken Drum Stick Big 12*900gm"
+    }, {
+        "ccode": "0",
+        "code": "G0309",
+        "id": 309,
+        "img": "img/pumpkin.png",
+        "name": "Chicken 900 10*900gm"
+    }, {
+        "ccode": "0",
+        "code": "G0310",
+        "id": 310,
+        "img": "img/pumpkin.png",
+        "name": "Chicken 1000 10*1000gm"
+    }, {
+        "ccode": "0",
+        "code": "G0311",
+        "id": 311,
+        "img": "img/pumpkin.png",
+        "name": "Chicken 1100 10*1100gm"
+    }, {
+        "ccode": "0",
+        "code": "G0312",
+        "id": 312,
+        "img": "img/pumpkin.png",
+        "name": "Chicken 1200 10*1200gm"
+    }, {
+        "ccode": "0",
+        "code": "G0313",
+        "id": 313,
+        "img": "img/pumpkin.png",
+        "name": "Chicken 1300 10*1300gm"
+    }, {
+        "ccode": "0",
+        "code": "G0314",
+        "id": 314,
+        "img": "img/pumpkin.png",
+        "name": "Chicken 1400 10*1400gm"
+    }, {
+        "ccode": "0",
+        "code": "G0315",
+        "id": 315,
+        "img": "img/pumpkin.png",
+        "name": "Tide 6*1.5Kg"
+    }, {
+        "ccode": "0",
+        "code": "G0316",
+        "id": 316,
+        "img": "img/pumpkin.png",
+        "name": "Ariel 4*2.5Kg"
+    }
 ]
